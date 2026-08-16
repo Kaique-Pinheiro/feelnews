@@ -1,0 +1,20 @@
+DIAGNOSTICO EXPLORATORIO - IBOVESPA LOG-RETORNOS
+==================================================
+
+n_obs             1247.000000
+mean                 0.000270
+std                  0.011128
+annualized_vol       0.176650
+skew                -0.090047
+kurtosis             1.028614
+min                 -0.044050
+max                  0.053928
+
+ADF statistic: -35.4272
+ADF p-value:   0.000000
+Estacionario a 5%: True
+
+      lb_stat  lb_pvalue
+10  43.601744   0.000004
+
+Efeito ARCH (clustering) presente: True

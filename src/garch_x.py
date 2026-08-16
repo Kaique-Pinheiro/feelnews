@@ -18,6 +18,7 @@ import sys
 import warnings
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 
 sys.path.insert(0, os.path.dirname(__file__))
@@ -98,8 +99,17 @@ def main():
     res_baseline = fit_garch11_x(r, x=None)
     print_result("GARCH(1,1) baseline (mesma janela, mesma MLE)", res_baseline)
 
-    res_x = fit_garch11_x(r, x=x)
+    # warm start: parametros convergidos do baseline + gamma=0 (ver docstring
+    # de fit_garch11_x - garante que o GARCH-X nao converge para um ponto
+    # pior que o modelo aninhado, o que seria impossivel na otima global)
+    p_base = res_baseline.as_dict()
+    warm_start = np.array([p_base["mu"], p_base["omega"], p_base["alpha[1]"], p_base["beta[1]"], 0.0, p_base["nu"]])
+
+    res_x = fit_garch11_x(r, x=x, warm_start=warm_start)
     print_result("GARCH-X (sentimento defasado)", res_x, extra_param="gamma_sentiment")
+
+    if res_x.loglik < res_baseline.loglik - 1e-6:
+        print("  [AVISO] GARCH-X convergiu pior que o baseline aninhado - problema de otimizacao, nao resultado real.")
 
     aic_improved = res_x.aic < res_baseline.aic
     bic_improved = res_x.bic < res_baseline.bic

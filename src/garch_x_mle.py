@@ -115,11 +115,19 @@ def _numerical_hessian(f, x0: np.ndarray, step: float = 1e-4) -> np.ndarray:
     return H
 
 
-def fit_garch11_x(returns: np.ndarray, x: np.ndarray | None = None) -> GarchXResult:
+def fit_garch11_x(returns: np.ndarray, x: np.ndarray | None = None, warm_start: np.ndarray | None = None) -> GarchXResult:
     """Ajusta GARCH(1,1)-t por MLE. Se x is None, e o baseline sem regressor.
 
     returns deve estar na MESMA escala usada no Passo 2 (log_return * 100)
     para estabilidade numerica do otimizador.
+
+    warm_start: valores iniciais [mu, omega, alpha, beta, gamma, nu] (gamma
+    omitido se has_x=False). Usar os parametros ja convergidos do baseline
+    (com gamma=0) para inicializar o GARCH-X evita que o otimizador caia
+    num minimo local pior que o do modelo aninhado - por construcao, o
+    log-likelihood do GARCH-X no otimo nunca pode ser PIOR que o do
+    baseline (gamma=0 e um caso particular), entao um resultado pior
+    indica falha de convergencia, nao um resultado real.
     """
     has_x = x is not None
     returns = np.asarray(returns, dtype=float)
@@ -128,11 +136,11 @@ def fit_garch11_x(returns: np.ndarray, x: np.ndarray | None = None) -> GarchXRes
 
     var0 = np.var(returns)
     if has_x:
-        x0 = np.array([returns.mean(), var0 * 0.10, 0.05, 0.80, 0.0, 8.0])
+        x0 = warm_start if warm_start is not None else np.array([returns.mean(), var0 * 0.10, 0.05, 0.80, 0.0, 8.0])
         bounds = [(-5, 5), (1e-6, 50), (0, 0.5), (0, 0.999), (-50, 50), (2.05, 30)]
         names = ["mu", "omega", "alpha[1]", "beta[1]", "gamma_sentiment", "nu"]
     else:
-        x0 = np.array([returns.mean(), var0 * 0.10, 0.05, 0.80, 8.0])
+        x0 = warm_start if warm_start is not None else np.array([returns.mean(), var0 * 0.10, 0.05, 0.80, 8.0])
         bounds = [(-5, 5), (1e-6, 50), (0, 0.5), (0, 0.999), (2.05, 30)]
         names = ["mu", "omega", "alpha[1]", "beta[1]", "nu"]
 
@@ -144,6 +152,28 @@ def fit_garch11_x(returns: np.ndarray, x: np.ndarray | None = None) -> GarchXRes
         bounds=bounds,
         options={"maxiter": 2000, "ftol": 1e-10},
     )
+
+    # multi-start: tenta tambem a partir de um ponto generico; fica com o melhor
+    if has_x:
+        generic_x0 = np.array([returns.mean(), var0 * 0.10, 0.05, 0.80, 0.0, 8.0])
+        result_generic = optimize.minimize(
+            _neg_loglik, generic_x0, args=(returns, x), method="L-BFGS-B",
+            bounds=bounds, options={"maxiter": 2000, "ftol": 1e-10},
+        )
+        if result_generic.fun < result.fun:
+            result = result_generic
+
+    # polimento com Nelder-Mead (sem gradiente): L-BFGS-B pode terminar em
+    # ABNORMAL_TERMINATION_IN_LNSRCH quando a superficie de verossimilhanca
+    # e mal-condicionada (parametros em escalas muito diferentes, ex: gamma
+    # vs. nu). Nelder-Mead nao depende de gradiente numerico e refina o
+    # ponto sem risco de piorar (comparamos o valor da funcao objetivo).
+    result_nm = optimize.minimize(
+        _neg_loglik, result.x, args=(returns, x), method="Nelder-Mead",
+        bounds=bounds, options={"maxiter": 5000, "xatol": 1e-8, "fatol": 1e-8},
+    )
+    if result_nm.fun < result.fun:
+        result = result_nm
 
     loglik = -result.fun
     k = len(x0)

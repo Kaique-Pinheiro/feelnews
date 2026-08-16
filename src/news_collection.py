@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 
 DATA_RAW_DIR = "data/raw"
-WINDOW_DAYS = 90
+WINDOW_DAYS = 365
 MAX_HEADLINES_PER_DAY = 10
 QUERY = 'ibovespa OR "bolsa de valores" OR "mercado financeiro" Brasil'
 BASE_URL = "https://news.google.com/rss/search"

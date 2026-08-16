@@ -1,0 +1,923 @@
+date,headline,sentimento,intensidade,categoria_risco
+2026-05-16,"Os motivos para o Ibovespa subir 35% até 2027, segundo o Morgan Stanley - VEJA",0.8,0.7,macro
+2026-05-16,Ibovespa cai quase 4% com incertezas globais - ES Brasil,-0.8,0.8,macro
+2026-05-16,"Luiz Barsi ao CNN Money: As lições de investimento do ""Rei dos Dividendos” - CNN Brasil",0.3,0.3,corporativo
+2026-05-16,Braskem (BRKM5) lidera os ganhos do Ibovespa e CSAN3 é ação com pior desempenho; veja os destaques da semana - Money Times,0.2,0.5,corporativo
+2026-05-16,O Que a Volatilidade do Dólar Significa para o Mercado nos Próximos Meses - Forbes Brasil,0.0,0.4,macro
+2026-05-16,Berkshire eleva fatia na Alphabet no 1º tri e vende Mastercard - CNN Brasil,0.4,0.5,corporativo
+2026-05-17,Tese que sustentou o Ibovespa no 1º tri começa a ruir. É hora de insistir na bolsa? - Valor Investe,-0.6,0.7,macro
+2026-05-17,Ibovespa e dólar recuam em dia de divulgação de índices econômicos no Brasil - VEJA,-0.2,0.3,macro
+2026-05-17,"Ibovespa fecha em leve baixa puxado por Vale; dólar cai a R$ 4,99 - CNN Brasil",-0.3,0.4,setorial
+2026-05-17,"Ibovespa tem mais uma queda, com Vale e bancos; dólar cai e fica abaixo de R$ 5 - InfoMoney",-0.4,0.5,setorial
+2026-05-17,"Ibovespa hoje fecha em queda com petróleo a US$ 112 e baixa da Vale (VALE3); dólar cai a R$ 4,99 - Estadão",-0.4,0.5,setorial
+2026-05-17,"Boletim Focus: mercado financeiro projeta inflação de 4,92% em 2026 - Movimento Econômico",-0.2,0.4,macro
+2026-05-17,Ibovespa recua e abre caminho para sexta semana seguida de perdas com pressão inflacionária e tensão global - Times Brasil,-0.8,0.8,macro
+2026-05-17,CNBC,0.0,0.0,macro
+2026-05-17,Ibovespa recua e fecha aos 176 mil pontos com maior apetite por risco no mercado - Brasil 61,-0.3,0.4,macro
+2026-05-17,"Pela décima semana consecutiva, mercado financeiro aumenta a estimativa de inflação para este ano no Brasil - Grupo Ceres de Comunicação",-0.5,0.6,macro
+2026-05-17,Flávio Bolsonaro vai a SP para reuniões com mercado financeiro após crise com Vorcaro - Exame,-0.4,0.6,politico
+2026-05-18,"Ibovespa fecha em queda com eleição e guerra no radar; dólar sobe a R$ 5,04 - CNN Brasil",-0.6,0.7,politico
+2026-05-18,Ibovespa hoje fecha em queda após juros dos EUA subirem ao maior nível desde 2007 - Estadão,-0.7,0.8,macro
+2026-05-18,"Ibovespa cai aos 174 mil pontos e tem menor patamar desde janeiro, de olho em quadro eleitoral do Brasil - G1",-0.8,0.8,politico
+2026-05-18,Ibovespa recua mais de 1% com cenário eleitoral no Brasil e tensões no Oriente Médio - VEJA,-0.7,0.8,politico
+2026-05-18,"Ibovespa tem mais uma queda, com Vale e bancos; dólar cai e fica abaixo de R$ 5 - InfoMoney",-0.4,0.5,corporativo
+2026-05-18,"Ibovespa cai 1,5% e dólar sobe a R$ 5 após avanço de Lula em pesquisa eleitoral - Bloomberg Línea Brasil",-0.8,0.8,politico
+2026-05-18,Ibovespa cai com tensão EUA-Irã e cenário no Brasil - ES Brasil,-0.7,0.7,macro
+2026-05-18,Tese que sustentou o Ibovespa no 1º tri começa a ruir. É hora de insistir na bolsa? - Valor Investe,-0.5,0.6,macro
+2026-05-18,Ibovespa e dólar recuam em dia de divulgação de índices econômicos no Brasil - VEJA,-0.3,0.4,macro
+2026-05-18,"Ibovespa fecha em leve baixa puxado por Vale; dólar cai a R$ 4,99 - CNN Brasil",-0.2,0.3,corporativo
+2026-05-19,Ibovespa fecha em alta com expectativa pelo fim da guerra; dólar cai a R$ 5 - CNN Brasil,0.8,0.7,macro
+2026-05-19,Bancos impulsionam Ibovespa após perdas recentes e em meio a preocupações com crédito - Valor Econômico,0.6,0.5,setorial
+2026-05-19,Ibovespa hoje fecha em queda após juros dos EUA subirem ao maior nível desde 2007 - Estadão,-0.7,0.7,macro
+2026-05-19,Ibovespa recua mais de 1% com cenário eleitoral no Brasil e tensões no Oriente Médio - VEJA,-0.8,0.8,politico
+2026-05-19,Mercados hoje: exterior tem recuperação após perdas recentes - Bora Investir,0.4,0.4,macro
+2026-05-19,Ibovespa em queda: veja 4 motivos que explicam movimento (e o que esperar) - InfoMoney,-0.5,0.5,macro
+2026-05-19,"Ibovespa cai 1,5% e dólar sobe a R$ 5 após avanço de Lula em pesquisa eleitoral - Bloomberg Línea Brasil",-0.8,0.8,politico
+2026-05-19,Ibovespa cai com tensão EUA-Irã e cenário no Brasil - ES Brasil,-0.7,0.7,macro
+2026-05-19,"Ibovespa fecha em queda com eleição e guerra no radar; dólar sobe a R$ 5,04 - CNN Brasil",-0.7,0.7,politico
+2026-05-19,"Ibovespa cai aos 174 mil pontos e tem menor patamar desde janeiro, de olho em quadro eleitoral do Brasil - G1",-0.8,0.8,politico
+2026-05-20,Ibovespa fecha em alta com expectativa pelo fim da guerra; dólar cai a R$ 5 - CNN Brasil,0.8,0.7,macro
+2026-05-20,Bancos impulsionam Ibovespa após perdas recentes e em meio a preocupações com crédito - Valor Econômico,0.4,0.5,setorial
+2026-05-20,Mercados hoje: exterior tem recuperação após perdas recentes - Bora Investir,0.3,0.4,macro
+2026-05-20,Ibovespa hoje: B3 (B3SA3) e Eneva (ENEV3) sobem após fortes tombos - Estadão,0.5,0.5,corporativo
+2026-05-20,Ibovespa tem leve alta após notícias da guerra; dólar recua mais uma vez - InfoMoney,0.3,0.3,macro
+2026-05-20,Ibovespa opera em leve alta em dia de alívio no cenário internacional - VEJA,0.3,0.3,macro
+2026-05-20,Ibovespa opera em alta e fecha mercado em 177.650 pontos - Brasil 61,0.6,0.4,macro
+2026-05-20,Ibovespa recua com exterior mais negativo; Copasa cai após lançar oferta de ações - Notícias Agrícolas,-0.6,0.6,macro
+2026-05-20,Ibovespa fecha em alta com expectativa de acordo EUA-Irã; dólar cai a R$ 5 - CNN Brasil,0.8,0.7,macro
+2026-05-20,"Sem confirmação oficial de acordo entre EUA e Irã, Ibovespa e dólar têm reação contida - Valor Investe",0.1,0.3,macro
+2026-05-21,Ibovespa fecha em queda e acumula maior série de perdas semanais desde 2018 - CNN Brasil,-0.8,0.8,macro
+2026-05-21,Os motivos no Brasil e no exterior que derrubam bolsa de valores nesta sexta-feira - VEJA,-0.7,0.7,macro
+2026-05-21,"O rali que encolheu: sem Petrobras, o Ibovespa já estaria no vermelho - NeoFeed",-0.5,0.6,setorial
+2026-05-21,Ibovespa hoje: CSN (CSNA3) volta a subir; Minerva (BEEF3) e MBRF (MBRF3) tombam - Estadão,-0.3,0.5,corporativo
+2026-05-21,Ibovespa fecha em queda e acumula maior série de perdas semanais desde 2018 - InfoMoney,-0.8,0.8,macro
+2026-05-21,Plataforma cripto lança contrato de Ibovespa alavancado com negociação 24/7 - Valor Econômico,0.1,0.2,setorial
+2026-05-21,"Estrangeiros retiram R$ 22,6 bilhões da B3 após pico histórico, Ibovespa tem queda de 11% em dólar - ADVFN",-0.9,0.9,macro
+2026-05-21,Ibovespa fecha em alta com expectativa de acordo EUA-Irã; dólar cai a R$ 5 - CNN Brasil,0.7,0.7,macro
+2026-05-21,Ibovespa hoje cai com impasse nas negociações entre EUA e Irã; dólar sobe - Estadão,-0.6,0.6,macro
+2026-05-21,Boi gordo deixa Ibovespa para trás e lidera ganhos entre os índices da B3 em 2026 - InfoMoney,0.6,0.5,setorial
+2026-05-22,Ibovespa recua mais de 10% após atingir recorde - CNN Brasil,-0.8,0.8,macro
+2026-05-22,Os motivos no Brasil e no exterior que derrubam bolsa de valores nesta sexta-feira - VEJA,-0.7,0.6,macro
+2026-05-22,"O rali que encolheu: sem Petrobras, o Ibovespa já estaria no vermelho - NeoFeed",-0.4,0.5,setorial
+2026-05-22,Ibovespa hoje: CSN (CSNA3) volta a subir; Minerva (BEEF3) e MBRF (MBRF3) tombam - Estadão,-0.3,0.4,corporativo
+2026-05-22,Ibovespa fecha em queda e acumula maior série de perdas semanais desde 2018 - InfoMoney,-0.9,0.9,macro
+2026-05-22,Plataforma cripto lança contrato de Ibovespa alavancado com negociação 24/7 - Valor Econômico,0.1,0.3,setorial
+2026-05-22,"Ibovespa cai e tem a sexta semana seguida de perdas; dólar sobe a R$ 5,03 - Bloomberg Línea Brasil",-0.8,0.7,macro
+2026-05-22,"Estrangeiros retiram R$ 22,6 bilhões da B3 após pico histórico, Ibovespa tem queda de 11% em dólar - ADVFN",-0.9,0.8,macro
+2026-05-22,Ibovespa cai na contramão do exterior após ata do Fed e cautela política - Times Brasil,-0.7,0.6,politico
+2026-05-22,CNBC,0.0,0.0,macro
+2026-05-22,Ibovespa opera em alta e fecha mercado em 176.209 pontos - Brasil 61,0.8,0.6,macro
+2026-05-23,Ibovespa recua mais de 10% após atingir recorde - CNN Brasil,-0.8,0.9,macro
+2026-05-23,Queda do Ibovespa após recorde acende alerta no mercado - Economic News Brasil,-0.7,0.8,macro
+2026-05-23,CBPM CELEBRA ABERTURA DE CAPITAL DA HOMERUN NA BOLSA DE VALORES - - Bahia Economica,0.8,0.6,corporativo
+2026-05-23,Por que os investidores estrangeiros começaram a tirar dinheiro da Bolsa brasileira - Gazeta do Povo,-0.6,0.7,macro
+2026-05-23,Ibovespa fecha no vermelho pela 6ª semana seguida e vive pior sequência desde 2018; Minerva (BEEF3) lidera ponta negativa - Seu Dinheiro,-0.8,0.8,corporativo
+2026-05-23,"Ibovespa cai pela 6ª semana consecutiva, na maior sequência de perdas desde 2018, e Minerva (BEEF3) lidera ponta negativa - Money Times",-0.8,0.8,corporativo
+2026-05-23,"Ibovespa e dólar hoje: mercado avalia fiscal em dia de feriado nos EUA - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.2,0.4,macro
+2026-05-24,Ibovespa recua com riscos eleitorais no Brasil e Oriente Médio no radar - VEJA,-0.6,0.6,politico
+2026-05-24,"Ibovespa Fecha em Alta com Apoio Externo, Mas Liquidez Reduzida com Feriado nos EUA - Forbes Brasil",0.4,0.4,macro
+2026-05-24,"Bolsa fecha em alta com expectativa de acordo EUA-Irã; dólar cai a R$ 5,01 - CNN Brasil",0.8,0.7,macro
+2026-05-24,"Ibovespa sobe em dia de baixa liquidez; bancos avançam, Petrobras cai - InfoMoney",0.2,0.3,setorial
+2026-05-24,"Ibovespa fecha em alta com apoio externo, mas liquidez reduzida com feriado nos EUA Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",0.4,0.4,macro
+2026-05-24,Ibovespa opera em alta e fecha mercado em 177.816 pontos - Brasil 61,0.5,0.4,macro
+2026-05-24,Ibovespa avança com alívio externo e queda do petróleo - ES Brasil,0.6,0.5,macro
+2026-05-24,Ibovespa ensaia recuperação em dia de baixa liquidez e sinais de distensão nos EUA - Times Brasil,0.5,0.4,macro
+2026-05-24,CNBC,0.0,0.0,macro
+2026-05-24,"Tempo Real: Sem Wall Street, Ibovespa sobe quase 1% com avanço nas negociações entre EUA e Irã; dólar cai a R$ 5,01 - Money Times",0.8,0.7,macro
+2026-05-24,Mercado vê eleição presidencial ainda coadjuvante diante do cenário externo - CNN Brasil,0.1,0.3,politico
+2026-05-25,Ibovespa Fecha em Queda com Oriente Médio em Foco - Forbes Brasil,-0.6,0.5,macro
+2026-05-25,Ibovespa recua com riscos eleitorais no Brasil e Oriente Médio no radar - VEJA,-0.7,0.6,politico
+2026-05-25,"O Ibovespa pode até subir, mas talvez não compense o risco - Estadão",-0.5,0.4,macro
+2026-05-25,Ibovespa fecha em queda com incerteza sobre acordo EUA-Irã; dólar sobe - CNN Brasil,-0.6,0.5,macro
+2026-05-25,Ibovespa cai com incertezas externas e políticas no Brasil - ES Brasil,-0.6,0.5,macro
+2026-05-25,Ibovespa cai com tensão entre EUA e Irã - suno.com.br,-0.6,0.6,macro
+2026-05-25,"Ibovespa termina em queda, com bancos e Vale, na contramão do exterior - InfoMoney",-0.5,0.4,setorial
+2026-05-25,"Ibovespa fecha em alta com apoio externo, mas liquidez reduzida com feriado nos EUA Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",0.5,0.4,macro
+2026-05-25,Ibovespa opera em alta e fecha mercado em 177.816 pontos - Brasil 61,0.7,0.4,macro
+2026-05-25,Ibovespa ensaia recuperação em dia de baixa liquidez e sinais de distensão nos EUA - Times Brasil,0.4,0.3,macro
+2026-05-25,CNBC,0.0,0.0,macro
+2026-05-26,Ibovespa Fecha em Queda com Oriente Médio em Foco - Forbes Brasil,-0.6,0.6,macro
+2026-05-26,"O Ibovespa pode até subir, mas talvez não compense o risco - Estadão",-0.4,0.5,macro
+2026-05-26,Contrato de Ibovespa alavancado 24x7 em plataforma blockchain gera incômodo no mercado regulado - Valor Econômico,-0.5,0.4,setorial
+2026-05-26,"Ibovespa B3 cai 0,48%, pressionado por Petrobras; dólar sobe a R$ 5,06 - Bora Investir",-0.5,0.4,corporativo
+2026-05-26,Ibovespa fecha em queda com incerteza sobre acordo EUA-Irã; dólar sobe - CNN Brasil,-0.6,0.6,macro
+2026-05-26,Ibovespa cai com incertezas externas e políticas no Brasil - ES Brasil,-0.6,0.5,macro
+2026-05-26,Bolsas em alta; IPCA-15 em foco no Brasil - conteudos.xpi.com.br,0.3,0.3,macro
+2026-05-26,Ibovespa cai com tensão entre EUA e Irã - suno.com.br,-0.6,0.6,macro
+2026-05-26,"Ibovespa termina em queda, com bancos e Vale, na contramão do exterior - InfoMoney",-0.5,0.4,corporativo
+2026-05-26,"Ibovespa e dólar hoje: inflação pressiona Brasil; PIB nos EUA e PCE guiam o dia - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.3,0.4,macro
+2026-05-27,"Alocação em ações cresce no Brasil após correção da Bolsa, aponta pesquisa - InfoMoney",0.6,0.4,setorial
+2026-05-27,'Receio de efeitos colaterais': classificação de CV e PCC como terroristas pode impactar mercado financeiro brasileiro - O GLOBO,-0.5,0.6,politico
+2026-05-27,"Bolsa fecha em queda com incerteza de acordo EUA-Irã; dólar cai a R$ 5,03 - CNN Brasil",-0.4,0.5,macro
+2026-05-27,"Ibovespa B3 cai 0,48%, pressionado por Petrobras; dólar sobe a R$ 5,06 - Bora Investir",-0.4,0.4,corporativo
+2026-05-27,"Ibovespa e dólar hoje: possível acordo EUA-Irã agita mercado antes de PIB Brasil - Investing.com Brasil - Finanças, Câmbio e Investimentos",0.1,0.3,macro
+2026-05-27,Bolsas em alta; IPCA-15 em foco no Brasil - conteudos.xpi.com.br,0.5,0.4,macro
+2026-05-27,Ibovespa Recua e Fecha Abaixo de 175 Mil Pontos Pressionado por Petrobras - Forbes Brasil,-0.5,0.5,corporativo
+2026-05-27,Ibovespa Futuro sobe após dados de emprego no Brasil e inflação e PIB nos EUA - InfoMoney,0.6,0.5,macro
+2026-05-27,Ibovespa avança com EUA-Irã no radar; veja - ES Brasil,0.4,0.4,macro
+2026-05-27,"Bolsa fecha em queda, dólar recua e petróleo sobe, com guerra no radar - Estadão",-0.3,0.5,macro
+2026-05-28,Ibovespa tem pior mês desde 2023 com saída de estrangeiros; dólar sobe - CNN Brasil,-0.8,0.8,macro
+2026-05-28,"Ibovespa B3 cai 0,73%, com decisão dos EUA sobre organizações criminosas; dólar sobe a R$ 5,04 - Bora Investir",-0.6,0.6,politico
+2026-05-28,'Receio de efeitos colaterais': classificação de CV e PCC como terroristas pode impactar mercado financeiro brasileiro - O GLOBO,-0.5,0.7,politico
+2026-05-28,"Alocação em ações cresce no Brasil após correção da Bolsa, aponta pesquisa - InfoMoney",0.6,0.4,macro
+2026-05-28,Ibovespa cai após decisão dos EUA sobre facções e tem pior mês desde fevereiro de 2023; dólar avança - Estadão,-0.7,0.8,macro
+2026-05-28,Ibovespa Fecha em Queda e Tem Pior Mês em Três Anos com Saída de Estrangeiros - Forbes Brasil,-0.9,0.9,macro
+2026-05-28,"Ibovespa encerra última sessão em queda de 0,73% - Brasil 61",-0.5,0.4,macro
+2026-05-28,Ibovespa avança com EUA-Irã no radar; veja - ES Brasil,0.5,0.5,macro
+2026-05-28,Ibovespa cede com novos ataques no Estreito de Ormuz; BB cai mais de 2% - Valor Econômico,-0.7,0.7,macro
+2026-05-28,"Bolsa fecha em queda com incerteza de acordo EUA-Irã; dólar cai a R$ 5,03 - CNN Brasil",-0.6,0.6,macro
+2026-05-29,Ibovespa tem pior mês desde 2023 com saída de estrangeiros; dólar sobe - CNN Brasil,-0.8,0.8,macro
+2026-05-29,"Ibovespa B3 cai 0,73%, com decisão dos EUA sobre organizações criminosas; dólar sobe a R$ 5,04 - Bora Investir",-0.6,0.6,macro
+2026-05-29,Ibovespa cai após decisão dos EUA sobre facções e tem pior mês desde fevereiro de 2023; dólar avança - Estadão,-0.8,0.8,macro
+2026-05-29,Ibovespa cai e dólar sobe com foco nos juros - Valor Investe,-0.6,0.5,macro
+2026-05-29,Ibovespa Fecha em Queda e Tem Pior Mês em Três Anos com Saída de Estrangeiros - Forbes Brasil,-0.9,0.9,macro
+2026-05-29,"Ibovespa encerra última sessão em queda de 0,73% - Brasil 61",-0.5,0.4,macro
+2026-05-29,Ibovespa tem maior queda mensal desde 2023 com debandada dos gringos: o que esperar? - InfoMoney,-0.8,0.8,macro
+2026-05-29,"Com dólar em alta e 3ª queda do Ibovespa, veja ranking de investimentos - UOL Economia",-0.6,0.6,macro
+2026-05-29,Ibovespa opera em baixa com foco no cenário internacional e na repercussão do PIB brasileiro - trademap.com.br,-0.5,0.5,macro
+2026-05-29,"Ibovespa cai com Vale e Petrobras, e registra pior mês em mais de dois anos diante da rotação global para IA - ADVFN",-0.8,0.8,corporativo
+2026-05-30,Vender em Maio e Ir Embora? Veja o Que 46 Anos de Análise do Ibovespa Dizem - Forbes Brasil,-0.2,0.4,macro
+2026-05-30,IA avança no mercado financeiro e molda decisões de investimento - CNN Brasil,0.6,0.5,setorial
+2026-05-30,Raízen pede mais prazo para apresentar plano de reenquadramento das ações - Times Brasil,-0.4,0.6,corporativo
+2026-05-30,CNBC,0.0,0.0,macro
+2026-05-30,"Ibovespa amarga queda de cerca de 7% em maio, no pior mês desde 2023; entenda os fatores e o que esperar de junho - Seu Dinheiro",-0.8,0.9,macro
+2026-05-30,"Ibovespa fecha pior mês desde 2023 aciona o alarme de correção no gráfico - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.7,0.8,macro
+2026-05-30,Ibovespa tem pior desempenho mensal em três anos - Vero Notícias,-0.8,0.85,macro
+2026-05-31,Vender em Maio e Ir Embora? Veja o Que 46 Anos de Análise do Ibovespa Dizem - Forbes Brasil,-0.2,0.4,macro
+2026-05-31,"Pessimismo na bolsa vira sinal de compra para analistas, mas Ibovespa está longe da guinada - Valor Investe",0.3,0.5,macro
+2026-05-31,IA avança no mercado financeiro e molda decisões de investimento - CNN Brasil,0.4,0.3,setorial
+2026-05-31,"Ibovespa B3 tem queda de 0,91%, com incertezas sobre fim da guerra; dólar cai a R$ 5,02 - Bora Investir",-0.6,0.6,macro
+2026-05-31,"Ibovespa fecha em queda, apesar de Trump afirmar que negociações com o Irã avançam; dólar cai - Estadão",-0.5,0.5,macro
+2026-05-31,"“Está na hora de comprar Bolsa brasileira”, diz XP, que vê Ibovespa a 205 mil em 2026 - InfoMoney",0.8,0.7,macro
+2026-05-31,Ibovespa: índice inicia o mês em queda - Brasil 61,-0.4,0.4,macro
+2026-05-31,"Está na hora de comprar Brasil, diz XP - Money Times",0.8,0.7,macro
+2026-05-31,Imóveis em 2026: a revolução silenciosa que o mercado financeiro precisa entender - Monitor Mercantil,0.5,0.4,setorial
+2026-05-31,Ibovespa e dólar fecham em queda com incerteza sobre acordo entre EUA e Irã - CNN Brasil,-0.5,0.5,macro
+2026-06-01,"Pessimismo na bolsa vira sinal de compra para analistas, mas Ibovespa está longe da guinada - Valor Investe",0.2,0.4,macro
+2026-06-01,Ibovespa fecha em alta puxado pelas ações da Vale; dólar cai a R$ 5 - CNN Brasil,0.7,0.5,macro
+2026-06-01,Por que Ibovespa sobe apesar de ameaça de tarifaço ao Brasil? - VEJA,0.4,0.6,macro
+2026-06-01,Ibovespa hoje ignora tarifa de 25% dos EUA sobre o Brasil e sobe mais de 1%; dólar recua a R$ 5 - Estadão,0.7,0.7,macro
+2026-06-01,"Ibovespa B3 tem queda de 0,91%, com incertezas sobre fim da guerra; dólar cai a R$ 5,02 - Bora Investir",-0.3,0.5,macro
+2026-06-01,Ibovespa sobe mais de 1% e dólar cai mesmo com EUA ameaçando novas tarifas: por quê? - InfoMoney,0.6,0.6,macro
+2026-06-01,Ibovespa abre em alta apesar de ameaça de tarifa dos EUA contra o Brasil - trademap.com.br,0.5,0.5,macro
+2026-06-01,Diretor jurídico do BTG defende reforço na regulação do mercado financeiro - Migalhas,0.0,0.3,setorial
+2026-06-01,"Ibovespa: depois de cair 13%, é hora de comprar ações brasileiras, diz XP - Seu Dinheiro",0.6,0.6,setorial
+2026-06-01,Dólar recua e Ibovespa sobe após proposta de tarifa dos EUA - Poder360,0.6,0.5,macro
+2026-06-02,Dinheiro sai do Brasil e corre para Wall Street: por que o Ibovespa ficou para trás? - InfoMoney,-0.6,0.7,macro
+2026-06-02,"Ibovespa tomba em maio com saída de estrangeiros, juros altos e eleição - CNN Brasil",-0.8,0.8,macro
+2026-06-02,Ibovespa hoje cai mais de 2% e atinge menor nível desde janeiro; dólar fecha em alta - Estadão,-0.85,0.9,macro
+2026-06-02,Por que Ibovespa sobe apesar de ameaça de tarifaço ao Brasil? - VEJA,0.3,0.6,macro
+2026-06-02,Por Que o Ibovespa Derreteu Nesta Véspera de Feriado - Forbes Brasil,-0.9,0.95,macro
+2026-06-02,Dólar fecha em queda com foco nas negociações entre EUA e Irã; Ibovespa avança - G1,0.6,0.5,macro
+2026-06-02,Ibovespa abre em alta apesar de ameaça de tarifa dos EUA contra o Brasil - trademap.com.br,0.4,0.6,macro
+2026-06-02,Diretor jurídico do BTG defende reforço na regulação do mercado financeiro - Migalhas,0.1,0.3,setorial
+2026-06-02,"Ibovespa: depois de cair 13%, é hora de comprar ações brasileiras, diz XP - Seu Dinheiro",0.5,0.6,setorial
+2026-06-02,Dólar recua e Ibovespa sobe após proposta de tarifa dos EUA - Poder360,0.5,0.5,macro
+2026-06-03,Especialista repercute queda do Ibovespa e subida do dólar - CNN Brasil,-0.6,0.5,macro
+2026-06-03,Dinheiro sai do Brasil e corre para Wall Street: por que o Ibovespa ficou para trás? - InfoMoney,-0.7,0.6,macro
+2026-06-03,Ibovespa hoje cai mais de 2% e atinge menor nível desde janeiro; dólar fecha em alta - Estadão,-0.9,0.8,macro
+2026-06-03,Por Que o Ibovespa Derreteu Nesta Véspera de Feriado - Forbes Brasil,-0.9,0.9,macro
+2026-06-03,Trump mira Brasil em novo tarifaço e mercado reage com queda do Ibovespa - VEJA,-0.8,0.8,macro
+2026-06-03,O que a SpaceX espera ao estrear na bolsa de valores — e como ela pode fazer de Elon Musk o primeiro trilionário - bbc.com,0.5,0.4,corporativo
+2026-06-03,"Ibovespa recua por cautela com guerra, tarifas dos EUA e chance de Selic maior - UOL Economia",-0.7,0.7,macro
+2026-06-03,"Dólar sobe e fecha a R$ 5,06 com novas tarifas de Trump e impasse entre EUA e Irã; Ibovespa cai - G1",-0.8,0.8,macro
+2026-06-03,"Ibovespa e dólar hoje: Payroll concentra atenções do dia pós-feriado no Brasil - Investing.com Brasil - Finanças, Câmbio e Investimentos",0.0,0.3,macro
+2026-06-03,Ibovespa e Wall Street: por que o dinheiro sai do Brasil - Associação Comercial e Industrial de Araçatuba,-0.7,0.6,macro
+2026-06-04,“Soma de todos os medos” pressiona o Ibovespa e não tem prazo para terminar - NeoFeed,-0.8,0.9,macro
+2026-06-04,Mercado vê 3 gatilhos capazes de levar o Ibovespa aos 190 mil – ou a uma queda maior - Estadão,0.0,0.6,macro
+2026-06-04,Especialista repercute queda do Ibovespa e subida do dólar - CNN Brasil,-0.6,0.5,macro
+2026-06-04,"Dólar vai a R$ 5,15 e Ibovespa Perde os 170 Mil Pontos: O Que Abalou os Mercados Nesta Sexta - Forbes Brasil",-0.7,0.8,macro
+2026-06-04,"Dólar fecha acima de R$ 5,15, taxas futuras disparam e Ibovespa cai com maior chance de alta dos juros americanos - Valor Econômico",-0.7,0.8,macro
+2026-06-04,"Bolsa de Valores: Ibovespa cai e dólar sobe a R$ 5,18, veja as variações do mercado financeiro - Jornal da Paraíba",-0.6,0.6,macro
+2026-06-04,O que a SpaceX espera ao estrear na bolsa de valores — e como ela pode fazer de Elon Musk o primeiro trilionário - bbc.com,0.5,0.5,corporativo
+2026-06-04,Ibovespa encerra último pregão aos 169.019 pontos - Brasil 61,-0.1,0.1,macro
+2026-06-04,"A Bolsa de Valores abre hoje? Veja como fica o funcionamento da B3, dos bancos, do Pix, dos Correios - Seu Dinheiro",0.0,0.1,macro
+2026-06-04,"Dólar dispara a R$ 5,17 e Ibovespa recua após dados de emprego mais fortes dos EUA - Bloomberg Línea Brasil",-0.7,0.8,macro
+2026-06-05,“Soma de todos os medos” pressiona o Ibovespa e não tem prazo para terminar - NeoFeed,-0.85,0.8,macro
+2026-06-05,Mercado vê 3 gatilhos capazes de levar o Ibovespa aos 190 mil – ou a uma queda maior - Estadão,0.0,0.5,macro
+2026-06-05,"Dólar vai a R$ 5,15 e Ibovespa Perde os 170 Mil Pontos: O Que Abalou os Mercados Nesta Sexta - Forbes Brasil",-0.8,0.7,macro
+2026-06-05,"Ibovespa fecha em queda pela 8ª semana seguida; dólar sobe a R$ 5,15 - CNN Brasil",-0.85,0.8,macro
+2026-06-05,"Dólar fecha acima de R$ 5,15, taxas futuras disparam e Ibovespa cai com maior chance de alta dos juros americanos - Valor Econômico",-0.8,0.75,macro
+2026-06-05,"Bolsa de Valores: Ibovespa cai e dólar sobe a R$ 5,18, veja as variações do mercado financeiro - Jornal da Paraíba",-0.75,0.65,macro
+2026-06-05,Ibovespa encerra último pregão aos 169.019 pontos - Brasil 61,-0.3,0.3,macro
+2026-06-05,"A Bolsa de Valores abre hoje? Veja como fica o funcionamento da B3, dos bancos, do Pix, dos Correios - Seu Dinheiro",0.0,0.1,macro
+2026-06-05,"Dólar dispara a R$ 5,17 e Ibovespa recua após dados de emprego mais fortes dos EUA - Bloomberg Línea Brasil",-0.75,0.7,macro
+2026-06-05,Ibovespa tem maior sequência de perdas semanais desde o Plano Real - Money Times,-0.9,0.9,macro
+2026-06-06,Ibovespa vai reagir ou cair mais? Semana-chave tem Nasdaq e Bitcoin sob pressão - InfoMoney,-0.6,0.7,macro
+2026-06-06,Oito semanas no vermelho: veja quais ações afundaram junto com o Ibovespa nesta semana - Seu Dinheiro,-0.8,0.8,setorial
+2026-06-06,"Brasil prepara primeira emissão de títulos públicos em yuan na China, diz agência - G1",0.4,0.5,macro
+2026-06-06,"Ibovespa hoje perde os 170 mil pontos e ativa alerta de reversão estrutural - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.9,0.9,macro
+2026-06-07,"Dólar sobe a R$ 5,18, maior nível em mais de dois meses; Ibovespa recua - CNN Brasil",-0.7,0.6,macro
+2026-06-07,Ibovespa abre em queda com conflitos geopolíticos e mercado atento ao cenário de juros no Brasil - VEJA,-0.6,0.6,macro
+2026-06-07,Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil - InfoMoney,-0.9,0.8,macro
+2026-06-07,Ibovespa segue enfraquecido e sob pressão no início de uma semana traiçoeira na bolsa - Valor Investe,-0.7,0.6,macro
+2026-06-07,XP aposta em bolsa ‘além do Ibovespa’ e espera desaceleração da economia em 2027 - Bloomberg Línea Brasil,-0.3,0.4,setorial
+2026-06-07,Ibovespa encerra último pregão cotado acima dos 168 mil pontos - Brasil 61,0.1,0.2,macro
+2026-06-07,Ibovespa cai na abertura e dólar sobe com alívio no cenário externo - Times Brasil,-0.5,0.5,macro
+2026-06-07,CNBC,0.0,0.0,macro
+2026-06-07,Risco de alta nos juros pressiona o mercado; petróleo dispara e Ibovespa em dólar cai hoje (8) - Money Times,-0.8,0.7,macro
+2026-06-07,Ibovespa fecha em queda em sessão de baixa liquidez - Brasil 247,-0.5,0.4,macro
+2026-06-07,Mercado financeiro avalia impacto mais limitado com novo tarifaço - CNN Brasil,0.2,0.3,macro
+2026-06-08,"Ibovespa fecha em alta puxado pelas ações dos bancos; dólar vai a R$ 5,17 - CNN Brasil",0.6,0.4,setorial
+2026-06-08,Ibovespa abre em queda com conflitos geopolíticos e mercado atento ao cenário de juros no Brasil - VEJA,-0.5,0.5,macro
+2026-06-08,Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil - InfoMoney,-0.8,0.7,macro
+2026-06-08,"Ibovespa sobe 0,68% na contramão das bolsas internacionais - Bloomberg Línea Brasil",0.5,0.4,macro
+2026-06-08,"Ibovespa hoje fecha em alta após bater mínima desde janeiro; dólar recua a R$ 5,17 - Estadão",0.3,0.4,macro
+2026-06-08,Ibovespa segue enfraquecido e sob pressão no início de uma semana traiçoeira na bolsa - Valor Investe,-0.6,0.6,macro
+2026-06-08,"Ibovespa respira após três quedas, mas segue longe dos 200 mil pontos - suno.com.br",-0.2,0.3,macro
+2026-06-08,Ibovespa encerra último pregão cotado acima dos 168 mil pontos - Brasil 61,0.0,0.1,macro
+2026-06-08,"Dólar sobe a R$ 5,18, maior nível em mais de dois meses; Ibovespa recua - CNN Brasil",-0.6,0.5,macro
+2026-06-08,XP vê Ibovespa a 205 mil pontos e aponta 2 grandes temas para ações no 2º semestre - InfoMoney,0.7,0.6,macro
+2026-06-09,Ibovespa e dólar fecham em queda com escalada de tensão entre EUA e Irã - CNN Brasil,-0.8,0.8,macro
+2026-06-09,"CPI nos EUA, Irã e revisão para Brasil: o que fez Ibovespa renovar mínima em 5 meses - InfoMoney",-0.7,0.7,macro
+2026-06-09,"Ibovespa sobe 0,68% na contramão das bolsas internacionais - Bloomberg Línea Brasil",0.6,0.5,macro
+2026-06-09,"Ibovespa hoje fecha em alta após bater mínima desde janeiro; dólar recua a R$ 5,17 - Estadão",0.5,0.6,macro
+2026-06-09,Ibovespa registra nova queda e encerra último pregão aos 168.619 pontos - Brasil 61,-0.6,0.6,macro
+2026-06-09,Saída de estrangeiro da bolsa abre oportunidade a investidor - InvestNews,0.3,0.4,macro
+2026-06-09,"Ibovespa respira após três quedas, mas segue longe dos 200 mil pontos - suno.com.br",-0.3,0.4,macro
+2026-06-09,"Ibovespa sobe com alívio no petróleo, mas juros e cenário fiscal seguem no radar - Times Brasil",0.2,0.5,macro
+2026-06-09,CNBC,0.0,0.0,macro
+2026-06-09,"Ibovespa fecha em queda com peso de guerra, pesquisa eleitoral e inflação dos EUA - Valor Investe",-0.8,0.8,macro
+2026-06-09,"Ibovespa Futuro cai com cenário eleitoral no Brasil, tensão no Irã e inflação nos EUA - InfoMoney",-0.8,0.8,macro
+2026-06-10,Ibovespa e dólar fecham em queda com escalada de tensão entre EUA e Irã - CNN Brasil,-0.7,0.8,macro
+2026-06-10,"Ibovespa B3 sobe 1,71%, com novas falas de Trump sobre acordo com Irã; dólar cai a R$ 5,10 - Bora Investir",0.8,0.8,macro
+2026-06-10,"CPI nos EUA, Irã e revisão para Brasil: o que fez Ibovespa renovar mínima em 5 meses - InfoMoney",-0.8,0.9,macro
+2026-06-10,"Ibovespa hoje fecha em alta após Trump cancelar ataque ao Irã; dólar cai a R$ 5,10 - Estadão",0.8,0.8,macro
+2026-06-10,"Dólar cai a R$ 5,10 com sinal de trégua no Oriente Médio; Ibovespa sobe - G1",0.7,0.7,macro
+2026-06-10,"Os motivos que fazem o Ibovespa subir 1,7% e o dólar cair para 5 reais - VEJA",0.7,0.7,macro
+2026-06-10,Ibovespa registra nova queda e encerra último pregão aos 168.619 pontos - Brasil 61,-0.6,0.6,macro
+2026-06-10,Saída de estrangeiro da bolsa abre oportunidade a investidor - InvestNews,0.2,0.5,macro
+2026-06-10,Ibovespa cai com tensão entre EUA e Irã e fecha abaixo dos 169 mil pontos - suno.com.br,-0.7,0.8,macro
+2026-06-10,O Ibovespa já caiu 15% desde o pico de quase 200 mil pontos — o que fazer agora? - Seu Dinheiro,-0.8,0.9,macro
+2026-06-11,"Ibovespa B3 sobe 1,71%, com novas falas de Trump sobre acordo com Irã; dólar cai a R$ 5,10 - Bora Investir",0.8,0.6,macro
+2026-06-11,"Ibovespa fecha em queda, mas tem 1º ganho semanal desde abril; dólar cai - CNN Brasil",0.4,0.4,macro
+2026-06-11,"Dólar cai a R$ 5,06, de olho em inflação no Brasil e Oriente Médio; Ibovespa recua - G1",-0.2,0.4,macro
+2026-06-11,Ibovespa recua com dados de inflação mais fortes no Brasil - VEJA,-0.5,0.5,macro
+2026-06-11,"Brasil 247 repercute entrevista de Fattorelli sobre PEC 65: ""Entregando o Banco Central de bandeja para o mercado financeiro"" - auditoriacidada.org.br",-0.7,0.7,politico
+2026-06-11,"Ibovespa hoje fecha em alta após Trump cancelar ataque ao Irã; dólar cai a R$ 5,10 - Estadão",0.8,0.6,macro
+2026-06-11,"Após ânimo com acordo EUA-Irã próximo, Ibovespa voltará a subir de vez? - InfoMoney",0.5,0.4,macro
+2026-06-11,Ibovespa encerra última sessão aos 171.497 pontos - Brasil 61,0.0,0.1,macro
+2026-06-11,Ibovespa repercute inflação no Brasil e humor estrangeiro com IPO da SpaceX - Exame,0.0,0.3,macro
+2026-06-11,Seleção brasileira vale mais do que 10 empresas do Ibovespa - InvestNews,0.0,0.2,corporativo
+2026-06-12,"Ibovespa fecha em queda, mas tem 1º ganho semanal desde abril; dólar cai - CNN Brasil",0.2,0.4,macro
+2026-06-12,"Dólar cai a R$ 5,06, de olho em inflação no Brasil e Oriente Médio; Ibovespa recua - G1",-0.3,0.4,macro
+2026-06-12,Ibovespa recua com dados de inflação mais fortes no Brasil - VEJA,-0.6,0.5,macro
+2026-06-12,"Brasil 247 repercute entrevista de Fattorelli sobre PEC 65: ""Entregando o Banco Central de bandeja para o mercado financeiro"" - auditoriacidada.org.br",-0.7,0.7,politico
+2026-06-12,"Após ânimo com acordo EUA-Irã próximo, Ibovespa voltará a subir de vez? - InfoMoney",0.3,0.4,macro
+2026-06-12,Ibovespa repercute inflação no Brasil e humor estrangeiro com IPO da SpaceX - Exame,0.0,0.3,macro
+2026-06-12,Seleção brasileira vale mais do que 10 empresas do Ibovespa - InvestNews,0.0,0.2,corporativo
+2026-06-12,A maré virou para a bolsa brasileira? BTG corta recomendação e esfria aposta no Brasil — e ele não é o único - Seu Dinheiro,-0.8,0.8,setorial
+2026-06-12,"Ibovespa cai com IPCA acima do esperado e negociações entre EUA e Irã em foco; dólar cai a R$ 5,06 - Money Times",-0.6,0.6,macro
+2026-06-12,Dólar hoje sobe com atenção à inflação no Brasil e tensões no Oriente Médio; mercados reagem à estreia da SpaceX em NY - Portal do Agronegócio,-0.2,0.5,macro
+2026-06-13,Mercado financeiro acompanha decisão do Copom em meio à pressão e inflação - CNN Brasil,-0.3,0.6,macro
+2026-06-13,Ibovespa aos 193 mil pontos? Inter vê espaço para nova disparada da bolsa brasileira - Seu Dinheiro,0.8,0.7,macro
+2026-06-13,Ibovespa reage após 8 semanas de queda; fundo chegou ou é repique? - InfoMoney,0.2,0.5,setorial
+2026-06-13,"Cuidado com o IPCA + 8%? Para analista, retorno acima da média nos títulos públicos ‘não é saudável’; entenda o porquê - Seu Dinheiro",-0.4,0.6,macro
+2026-06-13,De Cury (CURY3) a Natura (NTCO3): as ações que mais ganharam e perderam no Ibovespa nesta semana - Seu Dinheiro,0.0,0.4,corporativo
+2026-06-13,"Ibovespa hoje com alta após dois meses, mas ainda em ""zona morta"" tática - Investing.com Brasil - Finanças, Câmbio e Investimentos",0.3,0.5,setorial
+2026-06-13,Investidores espera forte volume com opções de ações da SpaceX - CNN Brasil,0.5,0.4,corporativo
+2026-06-13,Análise: Investidores brasileiros buscam ativos internacionais - CNN Brasil,0.1,0.3,macro
+2026-06-14,"Ibovespa fecha em queda puxado por Petrobras; dólar sobe a R$ 5,06 - CNN Brasil",-0.6,0.5,corporativo
+2026-06-14,"Acordo EUA-Irã reduz grande obstáculo para o Ibovespa, mas cenário segue desafiador - InfoMoney",0.3,0.4,macro
+2026-06-14,Ibovespa conclui último pregão aos 170.415 pontos - Brasil 61,0.0,0.1,macro
+2026-06-14,"Ibovespa B3 recua 0,42%, com peso de queda do petróleo; dólar fica em R$ 5,06 - Bora Investir",-0.5,0.4,setorial
+2026-06-14,"Queda de 0,42% do Ibovespa destoa do bom desempenho das bolsas estrangeiras - G1",-0.4,0.3,macro
+2026-06-14,Ibovespa aos 193 mil pontos? Inter vê espaço para nova disparada da bolsa brasileira - Seu Dinheiro,0.8,0.6,macro
+2026-06-14,"Mercado financeiro eleva previsão da Selic para 13,75% ao ano - CartaCapital",-0.7,0.7,macro
+2026-06-14,Dólar sobe e Ibovespa cai com foco na Superquarta - Campo Grande News,-0.5,0.5,macro
+2026-06-14,Ibovespa pode ter voo de galinha após fim da guerra - EuQueroInvestir,-0.2,0.4,macro
+2026-06-14,"Pela 14ª semana consecutiva, mercado financeiro aumenta a estimativa de inflação para este ano no Brasil - radiopampa.com.br",-0.8,0.7,macro
+2026-06-15,"Ibovespa fecha em queda, pressionado por baixa do petróleo; dólar sobe - CNN Brasil",-0.6,0.6,macro
+2026-06-15,"A nova carteira da IP: 33% no Brasil, 66% no exterior - Brazil Journal",0.0,0.3,setorial
+2026-06-15,Ibovespa fecha em queda antes de decisões sobre juros no Brasil e nos EUA - Valor Investe,-0.5,0.5,macro
+2026-06-15,"Ibovespa fecha último pregão aos 169.648 pontos, após baixa de 0,45% - Brasil 61",-0.4,0.4,macro
+2026-06-15,BofA: Só 31% dos gestores espera Ibovespa acima dos 190 mil pontos em 2026 - InfoMoney,-0.3,0.5,macro
+2026-06-15,Ibovespa abre em queda na véspera das decisões de juros no Brasil e nos EUA - trademap.com.br,-0.5,0.5,macro
+2026-06-15,"Ibovespa hoje fecha em queda, com petróleo abaixo de US$ 80 pela 1ª vez desde março; dólar sobe - Estadão",-0.7,0.6,macro
+2026-06-15,"Ibovespa B3 recua 0,42%, com peso de queda do petróleo; dólar fica em R$ 5,06 - Bora Investir",-0.5,0.5,macro
+2026-06-15,Ibovespa cai de olho na decisão de juros no Brasil e nos EUA - Investidor10,-0.5,0.5,macro
+2026-06-15,Ibovespa hoje: Brasil vai ficar 'para trás' enquanto mercados globais respiram com acordo entre EUA e Irã? Veja destaques - Empiricus,-0.4,0.5,macro
+2026-06-16,"Bolsa está barata, mas não quer dizer que vai ser um bom investimento, diz Verde - Valor Econômico",-0.2,0.3,macro
+2026-06-16,Ibovespa sobe e dólar cai à espera de decisões de juros no Brasil e nos EUA - Bloomberg Línea Brasil,0.6,0.5,macro
+2026-06-16,"Ibovespa fecha em queda, pressionado por baixa do petróleo; dólar sobe - CNN Brasil",-0.6,0.5,macro
+2026-06-16,"A nova carteira da IP: 33% no Brasil, 66% no exterior - Brazil Journal",0.1,0.3,corporativo
+2026-06-16,"Ibovespa fecha último pregão aos 169.648 pontos, após baixa de 0,45% - Brasil 61",-0.3,0.3,macro
+2026-06-16,BofA: Só 31% dos gestores espera Ibovespa acima dos 190 mil pontos em 2026 - InfoMoney,-0.4,0.5,macro
+2026-06-16,Ibovespa abre em queda na véspera das decisões de juros no Brasil e nos EUA - trademap.com.br,-0.5,0.5,macro
+2026-06-16,"Ibovespa hoje fecha em queda, com petróleo abaixo de US$ 80 pela 1ª vez desde março; dólar sobe - Estadão",-0.6,0.6,macro
+2026-06-16,Ibovespa cai de olho na decisão de juros no Brasil e nos EUA - Investidor10,-0.5,0.5,macro
+2026-06-16,"Ibovespa inverte sinal e fecha em queda após Fed; dólar sobe a R$ 5,11 - CNN Brasil",-0.6,0.6,macro
+2026-06-17,"Ibovespa sobe após decisões de juros no Brasil e nos EUA; dólar avança a R$ 5,16 - Bloomberg Línea Brasil",0.4,0.4,macro
+2026-06-17,"Bolsa está barata, mas não quer dizer que vai ser um bom investimento, diz Verde - Valor Econômico",-0.1,0.3,macro
+2026-06-17,"Ibovespa inverte sinal e fecha em queda após Fed; dólar sobe a R$ 5,11 - CNN Brasil",-0.5,0.5,macro
+2026-06-17,"Ibovespa recua com juros altos nos EUA no radar; dólar sobe a R$ 5,17 - Estadão",-0.4,0.4,macro
+2026-06-17,"Ibovespa encerra último pregão em queda, aos 168.453 pontos - Brasil 61",-0.3,0.3,macro
+2026-06-17,"Ibovespa sobe após decisões de juros no Brasil e nos EUA, mas mercado mantém cautela - VEJA",0.1,0.3,macro
+2026-06-17,Ibovespa Futuro sobe antes das decisões de juros no Brasil e EUA - InfoMoney,0.3,0.3,macro
+2026-06-17,Ibovespa fecha estável após decisões de juros no Brasil e nos Estados Unidos - Times Brasil,0.0,0.1,macro
+2026-06-17,CNBC,0.0,0.0,macro
+2026-06-17,Dólar sobe com decisões de juros de Brasil e EUA no radar; Ibovespa recua - brasilagro.com.br,-0.4,0.4,macro
+2026-06-17,"Dólar sobe e fecha a R$ 5,174; Ibovespa recua - Poder360",-0.4,0.4,macro
+2026-06-18,"Ibovespa sobe após decisões de juros no Brasil e nos EUA; dólar avança a R$ 5,16 - Bloomberg Línea Brasil",0.4,0.3,macro
+2026-06-18,"Ibovespa recua com juros altos nos EUA no radar; dólar sobe a R$ 5,17 - Estadão",-0.4,0.3,macro
+2026-06-18,"Ibovespa sobe após decisões de juros no Brasil e nos EUA, mas mercado mantém cautela - VEJA",0.1,0.2,macro
+2026-06-18,"Ibovespa fecha último pregão em leve queda de 0,10%, aos 168.277 pontos - Brasil 61",-0.1,0.1,macro
+2026-06-18,"Dólar sobe a R$ 5,17 e Ibovespa fecha em leve queda após decisões de juros - CNN Brasil",-0.2,0.2,macro
+2026-06-18,"Dólar sobe e vai a R$ 5,17, após decisões de juros e acordo entre EUA e Irã; Ibovespa cai - G1",-0.5,0.4,macro
+2026-06-18,"Ibovespa fecha com leve baixa, na contramão do exterior; dólar sobe mais de 1% - InfoMoney",-0.3,0.3,macro
+2026-06-18,Ibovespa fecha estável após decisões de juros no Brasil e nos Estados Unidos - Times Brasil,0.0,0.1,macro
+2026-06-18,CNBC,0.0,0.0,macro
+2026-06-18,Dólar sobe com decisões de juros de Brasil e EUA no radar; Ibovespa recua - brasilagro.com.br,-0.3,0.3,macro
+2026-06-18,"Dólar sobe e fecha a R$ 5,174; Ibovespa recua - Poder360",-0.3,0.3,macro
+2026-06-19,"Ibovespa fecha último pregão em leve queda de 0,10%, aos 168.277 pontos - Brasil 61",-0.1,0.2,macro
+2026-06-19,"Ibovespa fecha em leve alta com Oriente Médio no radar; dólar cai a R$ 5,16 - CNN Brasil",0.3,0.3,macro
+2026-06-19,Dólar cai com avanço das negociações entre EUA e Irã por fim da guerra; Ibovespa sobe - G1,0.6,0.5,macro
+2026-06-19,"Ibovespa termina dia positivo, mas semana fica no vermelho, em dia de baixa liquidez - InfoMoney",0.1,0.3,macro
+2026-06-19,"Wall Street sobe, mas Ibovespa afunda: por que a bolsa brasileira andou na contramão do mundo nesta semana - Seu Dinheiro",-0.6,0.6,macro
+2026-06-19,Ibovespa vira bolsa 'mais barata do mundo' após correção com saída de gringos - Exame,-0.4,0.5,macro
+2026-06-19,"Dólar recua a R$ 5,15 e Ibovespa fecha estável; bolsa acumula perda na semana - Bloomberg Línea Brasil",-0.1,0.3,macro
+2026-06-19,"Move Brasil, guerra no Irã, dólar, Ibovespa, mais agenda e pílulas da economia 19.06 - GZH",-0.2,0.4,macro
+2026-06-19,"Ibovespa cai 1,64% na semana com sinalização de juros maiores nos EUA e aumenta perdas no mês - Estadão",-0.7,0.7,macro
+2026-06-19,"Dólar sobe e vai a R$ 5,17; Ibovespa cai 0,13% - brasilagro.com.br",-0.2,0.2,macro
+2026-06-20,"Wall Street sobe, mas Ibovespa afunda: por que a bolsa brasileira andou na contramão do mundo nesta semana - Seu Dinheiro",-0.6,0.6,macro
+2026-06-20,Entre bisturis e patrimônios: a trajetória de um médico no mercado financeiro - InfoMoney,0.0,0.2,corporativo
+2026-06-20,Pessimismo com a bolsa brasileira dobra em um mês: só 31% dos gestores esperam Ibovespa acima dos 190 mil pontos em 2026 - gustavonegreiros.com.br,-0.7,0.7,macro
+2026-06-20,"Gestores adotam visão mais cautelosa para o Brasil, indica pesquisa do BofA - Bloomberg Línea Brasil",-0.5,0.6,macro
+2026-06-20,"Ibovespa cai 1,64% na semana com Copom, Fed e quebra do acordo EUA-Irã; veja os destaques - Investidor10",-0.7,0.7,macro
+2026-06-20,Secretário do Tesouro anuncia emissão de títulos brasileiros na moeda da China - Valor Econômico,0.2,0.4,macro
+2026-06-20,"Salto de Wall Street, ‘rasteira’ do Federal Reserve e falas do maior investidor da bolsa brasileira: Veja as matérias mais lidas no Money Times - Money Times",0.2,0.4,macro
+2026-06-20,Incerteza com acordo de paz no Oriente Médio eleva juros futuros - Correio Braziliense,-0.6,0.7,macro
+2026-06-20,"Agenda da semana: ata do Copom, IPCA-15 e inflação dos EUA devem movimentar os mercados - BPMoney",0.0,0.3,macro
+2026-06-21,"EXCLUSIVO: B3 estuda mudar Ibovespa, incluir BDRs e cobrar pelo índice - Brazil Journal",0.2,0.5,setorial
+2026-06-21,"Ibovespa fecha com ampla alta, na contramão do exterior, com bancos e Petrobras - InfoMoney",0.8,0.7,macro
+2026-06-21,"Ibovespa fecha última sessão em alta de 0,03%, aos 168.333 pontos - Brasil 61",0.1,0.2,macro
+2026-06-21,Ibovespa fecha com alta de mais de 1% com Oriente Médio no radar; dólar cai - CNN Brasil,0.7,0.6,macro
+2026-06-21,"Dólar cai a R$ 5,14, com foco no exterior e expectativa por ata do Copom; Ibovespa sobe - G1",0.6,0.5,macro
+2026-06-21,"Ibovespa sobe mais de 1% com fluxo estrangeiro, mas giro financeiro é limitado - UOL Economia",0.6,0.6,macro
+2026-06-21,B3 estuda reformulação do Ibovespa e avalia incluir BDRs no principal índice da bolsa - Investidor10,0.2,0.5,setorial
+2026-06-21,Ibovespa avança e dólar recua com queda dos juros futuros; ações de bancos sobem - Bloomberg Línea Brasil,0.7,0.6,macro
+2026-06-21,"Ibovespa recupera patamar de 170 mil pontos; dólar cai a R$ 5,14 - ISTOÉ DINHEIRO",0.8,0.7,macro
+2026-06-21,"Ibovespa hoje sobe com alívio geopolítico e retomada da liquidez global; dólar cai a R$ 5,14 - Estadão",0.7,0.6,macro
+2026-06-22,"Ibovespa Fecha em Alta, e Dólar Atinge Maior Valor desde 30 de Março - Forbes Brasil",0.4,0.6,macro
+2026-06-22,"EXCLUSIVO: B3 estuda mudar Ibovespa, incluir BDRs e cobrar pelo índice - Brazil Journal",0.1,0.5,setorial
+2026-06-22,Ibovespa fecha em alta em dia com ata do Copom; dólar sobe - CNN Brasil,0.3,0.5,macro
+2026-06-22,"Dólar e Ibovespa fecham em alta, de olho em cenário de juros no Brasil e nos EUA - G1",0.3,0.5,macro
+2026-06-22,"Ibovespa fecha com ampla alta, na contramão do exterior, com bancos e Petrobras - InfoMoney",0.7,0.6,setorial
+2026-06-22,Ibovespa encerra último pregão aos 171.258 pontos - Brasil 61,0.5,0.4,macro
+2026-06-22,"Ibovespa cai e dólar sobe a R$ 5,17 com ata do Copom e pressão do exterior - Bloomberg Línea Brasil",-0.6,0.7,macro
+2026-06-22,"Ibovespa sobe mais de 1% com fluxo estrangeiro, mas giro financeiro é limitado - UOL Economia",0.5,0.6,macro
+2026-06-22,"Ibovespa recupera patamar de 170 mil pontos; dólar cai a R$ 5,14 - ISTOÉ DINHEIRO",0.6,0.6,macro
+2026-06-22,O mercado financeiro já confirmou Lula eleito e aposta na falta de surpresas - Estadão,0.2,0.5,politico
+2026-06-23,"Ibovespa Fecha em Alta, e Dólar Atinge Maior Valor desde 30 de Março - Forbes Brasil",0.2,0.5,macro
+2026-06-23,Ibovespa fecha em alta em dia com ata do Copom; dólar sobe - CNN Brasil,0.2,0.4,macro
+2026-06-23,"Dólar e Ibovespa fecham em alta, de olho em cenário de juros no Brasil e nos EUA - G1",0.1,0.4,macro
+2026-06-23,Ressalva com techs pelo mundo pode trazer gringo de volta e impulsionar o Ibovespa? - InfoMoney,0.4,0.5,macro
+2026-06-23,Ibovespa encerra último pregão aos 171.258 pontos - Brasil 61,0.0,0.1,macro
+2026-06-23,"Ibovespa cai e dólar sobe a R$ 5,17 com ata do Copom e pressão do exterior - Bloomberg Línea Brasil",-0.6,0.6,macro
+2026-06-23,Bolsa de Valores do Brasil se conecta com principal plataforma de informações financeiras da China - TrendsCE,0.5,0.3,setorial
+2026-06-23,O que a crise de 1929 pode nos ensinar sobre os perigos que a economia enfrenta hoje? - bbc.com,-0.5,0.7,macro
+2026-06-23,"Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20 - Estadão",-0.7,0.8,corporativo
+2026-06-23,"Dólar cai a R$ 5,14; Ibovespa sobe 1,21% aos 170.365 pontos - brasilagro.com.br",0.7,0.6,macro
+2026-06-24,Ibovespa avança com prévia de inflação no Brasil mais fraca do que o esperado - VEJA,0.7,0.6,macro
+2026-06-24,"Ibovespa sobe 0,87% após série de dados dos EUA e Brasil: qual saldo para o mercado? - InfoMoney",0.6,0.5,macro
+2026-06-24,"Dólar recua a R$ 5,17, com foco na inflação de Brasil e EUA; Ibovespa avança - G1",0.6,0.5,macro
+2026-06-24,"Ibovespa avança com apostas em corte de juros, melhora da inflação no Brasil e pressão mista das big techs no exterior - ADVFN",0.7,0.6,macro
+2026-06-24,Jogo do Brasil na segunda-feira (29): confira o funcionamento da B3 - Bora Investir,0.0,0.1,macro
+2026-06-24,"Dólar sobe a R$ 5,20 com mercados em busca de ativos seguros; bolsa cai - CNN Brasil",-0.6,0.6,macro
+2026-06-24,Bolsa de Valores do Brasil se conecta com principal plataforma de informações financeiras da China - TrendsCE,0.3,0.3,macro
+2026-06-24,O que a crise de 1929 pode nos ensinar sobre os perigos que a economia enfrenta hoje? - bbc.com,-0.5,0.7,macro
+2026-06-24,"Ibovespa sobe quase 1% com IPCA-15 abaixo do esperado; dólar cai para R$ 5,17 - Estadão",0.8,0.7,macro
+2026-06-24,"Ibovespa sobe 0,87% com impulso de ações de bancos; dólar cai a R$ 5,18 - Bloomberg Línea Brasil",0.7,0.6,setorial
+2026-06-25,Ibovespa avança com prévia de inflação no Brasil mais fraca do que o esperado - VEJA,0.7,0.6,macro
+2026-06-25,Ibovespa conclui último pregão aos 173.295 pontos - Brasil 61,0.1,0.1,macro
+2026-06-25,"Ibovespa sobe 0,87% após série de dados dos EUA e Brasil: qual saldo para o mercado? - InfoMoney",0.6,0.5,macro
+2026-06-25,"Dólar recua a R$ 5,17, com foco na inflação de Brasil e EUA; Ibovespa avança - G1",0.6,0.5,macro
+2026-06-25,"Ibovespa hoje fecha em alta com dados do Brasil e dos EUA; dólar tem leve queda a R$ 5,16 - Estadão",0.6,0.5,macro
+2026-06-25,Alta dos juros no Japão impacta investidor e mercado financeiro - CNN Brasil,-0.6,0.6,macro
+2026-06-25,"Ibovespa avança com apostas em corte de juros, melhora da inflação no Brasil e pressão mista das big techs no exterior - ADVFN",0.7,0.6,macro
+2026-06-25,Jogo do Brasil na segunda-feira (29): confira o funcionamento da B3 - Bora Investir,0.0,0.2,setorial
+2026-06-25,"Dólar recua a R$ 5,17, com foco na inflação de Brasil; Ibovespa avança - brasilagro.com.br",0.6,0.5,macro
+2026-06-25,Ibovespa é impulsionado por bancos e fecha em alta; Braskem cai 17% na semana - Bloomberg Línea Brasil,0.3,0.7,corporativo
+2026-06-26,Ibovespa conclui último pregão aos 173.295 pontos - Brasil 61,0.0,0.1,macro
+2026-06-26,"Ibovespa hoje fecha em alta com dados do Brasil e dos EUA; dólar tem leve queda a R$ 5,16 - Estadão",0.6,0.4,macro
+2026-06-26,Alta dos juros no Japão impacta investidor e mercado financeiro - CNN Brasil,-0.6,0.5,macro
+2026-06-26,Cade recomenda condenação da B3 por prática anticoncorrencial - Consultor Jurídico,-0.7,0.6,corporativo
+2026-06-26,"Dólar recua a R$ 5,17, com foco na inflação de Brasil; Ibovespa avança - brasilagro.com.br",0.5,0.4,macro
+2026-06-26,"Ibovespa B3 sobe e fecha semana com alta de quase 3%; dólar cai a R$ 5,16 - Bora Investir",0.7,0.5,macro
+2026-06-26,Ibovespa é impulsionado por bancos e fecha em alta; Braskem cai 17% na semana - Bloomberg Línea Brasil,0.2,0.6,setorial
+2026-06-26,Ibovespa sobe com bancos em meio à queda dos juros futuros; Petrobras limita ganhos - Valor Econômico,0.5,0.4,macro
+2026-06-26,Ibovespa sobe puxado por bancos e dados do desemprego - VEJA,0.6,0.4,macro
+2026-06-26,"Ibovespa fecha com alta puxada por bancos; dólar termina em R$ 5,16 - InfoMoney",0.6,0.4,macro
+2026-06-27,Cade recomenda condenação da B3 por prática anticoncorrencial - Consultor Jurídico,-0.6,0.7,corporativo
+2026-06-27,Opinião - De Grão em Grão: A Bolsa brasileira está barata? - Folha de S.Paulo,0.1,0.2,macro
+2026-06-27,"Assaí (ASAI3) dispara 15%, Braskem (BRKM5) afunda 16%: quem ganhou e quem perdeu na bolsa nesta semana - Seu Dinheiro",0.2,0.8,setorial
+2026-06-27,Braskem (BRKM5) derrete 16% e lidera perdas do Ibovespa pela 2ª semana consecutiva; veja os destaques do índice - Money Times,-0.8,0.8,corporativo
+2026-06-27,Cade pode atingir coração do domínio da B3 e abrir caminho para novas bolsas no Brasil - Times Brasil,-0.5,0.7,setorial
+2026-06-27,CNBC,0.0,0.0,macro
+2026-06-27,"Ibovespa sobe quase 3% na semana, mas gráfico semanal acende alerta para Bull Trap - Investing.com Brasil - Finanças, Câmbio e Investimentos",0.3,0.6,macro
+2026-06-27,"Selic baixa popularizou os FIIs, mas deixou uma lição errada, diz professor da USP - InfoMoney",-0.2,0.4,setorial
+2026-06-27,Brasil planeja emitir títulos em yuan pela primeira vez e amplia estratégia financeira com foco na China - Jornal Grande Bahia,0.4,0.5,macro
+2026-06-27,Mercado financeiro cresce em MT e atrai investimentos para a capital - rdmonline.com.br,0.6,0.5,macro
+2026-06-27,Brasil amplia autonomia ao acessar capital chinês - Revista Fórum,0.4,0.5,macro
+2026-06-28,Volume do Ibovespa tomba com jogo do Brasil e se aproxima de pregões com feriados nos EUA - Valor Econômico,-0.3,0.4,macro
+2026-06-28,Ibovespa fecha último pregão aos 173.205 pontos - Brasil 61,0.0,0.1,macro
+2026-06-28,Fechamento (29/06),0.0,0.0,macro
+2026-06-28,"Ibovespa encerra aos 173.205 pontos, com baixa marginal de 0,05% - InvesTalk",-0.1,0.2,macro
+2026-06-28,Cautela no Brasil trava Ibovespa apesar de NY; junho deve ter saída de estrangeiros - UOL Economia,-0.4,0.5,macro
+2026-06-28,"Ibovespa fecha com leve queda, em dia de pouco movimento e muitas viradas - InfoMoney",-0.2,0.3,macro
+2026-06-28,Ibovespa fecha em queda leve com cenário global em foco; dólar sobe - CNN Brasil,-0.2,0.3,macro
+2026-06-28,Ibovespa hoje: Braskem (BRKM5) salta após perdas da última semana; Azzas (AZZA3) tem maior queda - Estadão,0.0,0.4,corporativo
+2026-06-28,Ibovespa recua e dólar sobe com investidores atentos às negociações entre EUA e Irã - Bloomberg Línea Brasil,-0.4,0.5,macro
+2026-06-28,Ibovespa fecha estável em dia de menor liquidez com jogo do Brasil; volume do índice cai 54% - Valor Econômico,-0.2,0.4,macro
+2026-06-28,Ibovespa fecha estável e segura 173 mil pontos em dia de menor liquidez provocada por jogo do Brasil - Times Brasil,0.0,0.3,macro
+2026-06-28,CNBC,0.0,0.0,macro
+2026-06-29,Volume do Ibovespa tomba com jogo do Brasil e se aproxima de pregões com feriados nos EUA - Valor Econômico,-0.4,0.3,macro
+2026-06-29,"Ibovespa Fecha Junho em Queda Pelo 4º Mês Seguido; Dólar Sobe 2,3% no Mês - Forbes Brasil",-0.7,0.6,macro
+2026-06-29,Ibovespa fecha último pregão aos 173.205 pontos - Brasil 61,0.0,0.1,macro
+2026-06-29,Fechamento (29/06),0.0,0.0,macro
+2026-06-29,"Ibovespa encerra aos 173.205 pontos, com baixa marginal de 0,05% - InvesTalk",-0.1,0.2,macro
+2026-06-29,"Ibovespa fecha junho com queda de 1%, mas acumula alta no ano; dólar sobe - CNN Brasil",-0.3,0.4,macro
+2026-06-29,Cautela no Brasil trava Ibovespa apesar de NY; junho deve ter saída de estrangeiros - UOL Economia,-0.5,0.5,macro
+2026-06-29,"Ibovespa B3 recua 0,68% e fecha junho com -1%; dólar cai a R$ 5,16 - Bora Investir",-0.4,0.4,macro
+2026-06-29,"Ibovespa fecha com leve queda, em dia de pouco movimento e muitas viradas - InfoMoney",-0.2,0.3,macro
+2026-06-29,O que esperar da Bolsa e do dólar em julho após guerra e juros ditarem o ritmo dos mercados - Estadão,-0.3,0.5,macro
+2026-06-29,Ibovespa recua e dólar sobe com investidores atentos às negociações entre EUA e Irã - Bloomberg Línea Brasil,-0.5,0.6,macro
+2026-06-30,"Ibovespa Fecha Junho em Queda Pelo 4º Mês Seguido; Dólar Sobe 2,3% no Mês - Forbes Brasil",-0.6,0.7,macro
+2026-06-30,"Ibovespa cai a 171 mil pontos e dólar sobe a R$ 5,21 - CNN Brasil",-0.5,0.6,macro
+2026-06-30,Por que o Brasil precisa descentralizar seu mercado financeiro - InfoMoney,0.0,0.3,setorial
+2026-06-30,"Dólar cai e fecha a R$ 5,16 com dados de emprego no Brasil e nos EUA; Ibovespa recua - G1",0.2,0.5,macro
+2026-06-30,"Ibovespa cai em junho, mas acumula ganho de 6,7% no semestre; veja ranking de investimentos - Bora Investir",0.3,0.4,macro
+2026-06-30,"Ibovespa ainda vai chegar a 200 mil pontos, diz XP; juros altos e eleição serão os testes do segundo semestre - Seu Dinheiro",0.5,0.6,macro
+2026-06-30,O que esperar da Bolsa e do dólar em julho após guerra e juros ditarem o ritmo dos mercados - Estadão,0.0,0.4,macro
+2026-06-30,Alta de juros nos EUA drena recursos e faz Ibovespa cair em junho - UOL Economia,-0.7,0.7,macro
+2026-06-30,"Ibovespa fecha junho com queda de 1%, mas acumula alta no ano; dólar sobe - CNN Brasil",-0.3,0.5,macro
+2026-06-30,"Ibovespa recua pressionado pela alta dos juros futuros, de olho em dados de trabalho - Valor Econômico",-0.4,0.5,macro
+2026-07-01,"Ibovespa cai a 171 mil pontos e dólar sobe a R$ 5,21 - CNN Brasil",-0.6,0.5,macro
+2026-07-01,Por que o Brasil precisa descentralizar seu mercado financeiro - InfoMoney,0.0,0.3,macro
+2026-07-01,Ibovespa hoje sobe após payroll reduzir apostas de alta dos juros nos EUA; dólar fecha em leve queda - Estadão,0.7,0.6,macro
+2026-07-01,"Ibovespa cai em junho, mas acumula ganho de 6,7% no semestre; veja ranking de investimentos - Bora Investir",0.4,0.4,macro
+2026-07-01,Ibovespa fecha último pregão aos 172.787 pontos - Brasil 61,0.0,0.1,macro
+2026-07-01,"Dólar fecha em queda, após dados do mercado de trabalho dos EUA; Ibovespa sobe - G1",0.6,0.5,macro
+2026-07-01,"Ibovespa ainda vai chegar a 200 mil pontos, diz XP; juros altos e eleição serão os testes do segundo semestre - Seu Dinheiro",0.6,0.6,macro
+2026-07-01,"Após 1º semestre de altos e baixos, o que esperar para o Ibovespa até o fim de 2026? - InfoMoney",0.1,0.3,macro
+2026-07-01,Ibovespa fecha em alta com payroll no radar; dólar cai - CNN Brasil,0.6,0.5,macro
+2026-07-01,"Dólar sobe e fecha a R$ 5,20 com falas do novo presidente do Fed e sanções de Trump no radar - G1",-0.5,0.6,macro
+2026-07-02,Ibovespa sobe com apoio de blue chips e queda dos juros - Valor Econômico,0.7,0.5,macro
+2026-07-02,"Ibovespa hoje sobe e fecha no maior nível em um mês; dólar cai a R$ 5,16 - Estadão",0.8,0.6,macro
+2026-07-02,Ibovespa fecha acima dos 174 mil pontos com feriado nos EUA; dólar cai - CNN Brasil,0.7,0.5,macro
+2026-07-02,BDRs podem fazer parte do novo Ibovespa: quais entrariam e o que mudaria no mercado? - InfoMoney,0.2,0.3,setorial
+2026-07-02,Ibovespa sobe e dólar cai com Brasil na mira dos EUA - Investidor10,0.6,0.5,macro
+2026-07-02,Ibovespa fecha último pregão aos 172.787 pontos - Brasil 61,0.1,0.1,macro
+2026-07-02,As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir,0.4,0.4,setorial
+2026-07-02,Ibovespa Encerra Acima de 174 Mil Pontos com Embraer em Alta e Dólar em Queda - Forbes Brasil,0.8,0.6,corporativo
+2026-07-02,Ibovespa hoje sobe após payroll reduzir apostas de alta dos juros nos EUA; dólar fecha em leve queda - Estadão,0.7,0.6,macro
+2026-07-02,"Dólar fecha em queda, após dados do mercado de trabalho dos EUA; Ibovespa sobe - G1",0.7,0.5,macro
+2026-07-03,Mercado vê Ibovespa com dificuldades de retomar fôlego no 2º semestre - CNN Brasil,-0.4,0.5,macro
+2026-07-03,"“Comprar na alta” funciona? O que dizem 15 anos de Ibovespa, IDIV e S&P 500 - InfoMoney",0.0,0.2,macro
+2026-07-03,Ibovespa sobe com apoio de blue chips e queda dos juros - Valor Econômico,0.7,0.6,macro
+2026-07-03,"Ibovespa hoje sobe e fecha no maior nível em um mês; dólar cai a R$ 5,16 - Estadão",0.8,0.7,macro
+2026-07-03,Ibovespa sobe e dólar cai com Brasil na mira dos EUA - Investidor10,0.6,0.5,macro
+2026-07-03,As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir,0.5,0.3,setorial
+2026-07-03,Ibovespa Encerra Acima de 174 Mil Pontos com Embraer em Alta e Dólar em Queda - Forbes Brasil,0.8,0.7,corporativo
+2026-07-03,Ibovespa (IBOV) supera os 174 mil pontos e registra segunda semana seguida de alta - Money Times,0.8,0.6,macro
+2026-07-03,Eleições 2026: O que não deve sair do radar dos investidores no 2º semestre? - Seu Dinheiro,-0.2,0.4,politico
+2026-07-03,"Petróleo, indústria, dólar, Ibovespa, mais agenda e pílulas da economia 03.07 - GZH",0.0,0.1,macro
+2026-07-04,Mercado vê Ibovespa com dificuldades de retomar fôlego no 2º semestre - CNN Brasil,-0.4,0.5,macro
+2026-07-04,"“Comprar na alta” funciona? O que dizem 15 anos de Ibovespa, IDIV e S&P 500 - InfoMoney",0.0,0.2,macro
+2026-07-04,Ibovespa (IBOV) supera os 174 mil pontos e registra segunda semana seguida de alta - Money Times,0.8,0.7,macro
+2026-07-04,O mercado financeiro brasileiro precisa de infraestrutura tão ambiciosa quanto sua inovação - Exame,0.2,0.3,macro
+2026-07-04,Panda Bonds aproximam Brasil do mercado financeiro chinês - CNN Brasil,0.5,0.4,macro
+2026-07-04,Projeções para o Ibov e “guerra” das canetas emagrecedoras; veja destaques da semana - InfoMoney,0.1,0.3,macro
+2026-07-04,"Ibovespa volta aos 174 mil pontos com aposta na Selic, e dólar cai - Gazeta Digital",0.7,0.6,macro
+2026-07-04,Três riscos que podem definir seus investimentos em 2026 no Brasil - Money Times,-0.6,0.7,macro
+2026-07-04,"Estrangeiros tiram R$ 7,7 bi da Bolsa em junho e saldo do ano cai à metade do pico de abril de 2026 - blocktrends.com.br",-0.8,0.8,macro
+2026-07-04,Junho tem 2º mês de saída de estrangeiros da Bolsa; ano segue positivo - CNN Brasil,-0.4,0.6,macro
+2026-07-05,Ibovespa cai com saída de estrangeiros e foco em Fed e IPCA - suno.com.br,-0.6,0.5,macro
+2026-07-05,Fechamento (06/07),0.0,0.0,macro
+2026-07-05,"Bolsa cai 0,93%, com audiência pública nos EUA sobre o Brasil no radar - InvesTalk",-0.6,0.5,politico
+2026-07-05,Ibovespa cai com início de negociações do tarifaço - VEJA,-0.7,0.6,politico
+2026-07-05,"Dólar cai e fecha a R$ 5,13, de olho no tarifaço e à espera de dados econômicos; Ibovespa recua - G1",-0.2,0.4,macro
+2026-07-05,"Ibovespa hoje fecha em queda, na contramão do exterior; dólar cai a R$ 5,13 - InfoMoney",-0.4,0.4,macro
+2026-07-05,Como os bancos digitais ampliaram o acesso ao mercado financeiro - CNN Brasil,0.5,0.3,setorial
+2026-07-05,Ibovespa fecha último pregão aos 172.448 pontos - Brasil 61,0.0,0.1,macro
+2026-07-05,Ibovespa recua com Ambev entre maiores perdas; Cosan sobe - UOL Economia,-0.3,0.4,corporativo
+2026-07-05,Ibovespa hoje fecha em queda com foco em indicadores dos EUA e Boletim Focus; dólar recua - Estadão,-0.4,0.4,macro
+2026-07-05,Ibovespa cai após altas recentes e descola de NY e do minério - Times Brasil,-0.4,0.4,macro
+2026-07-05,CNBC,0.0,0.0,macro
+2026-07-06,Ibovespa cai com saída de estrangeiros e foco em Fed e IPCA - suno.com.br,-0.6,0.5,macro
+2026-07-06,Fechamento (06/07),0.0,0.1,macro
+2026-07-06,"Bolsa cai 0,93%, com audiência pública nos EUA sobre o Brasil no radar - InvesTalk",-0.6,0.5,politico
+2026-07-06,Ibovespa cai com início de negociações do tarifaço - VEJA,-0.7,0.7,macro
+2026-07-06,Bolsa funcionará normalmente no feriado de 9 de julho em São Paulo; entenda - Bora Investir,0.0,0.1,macro
+2026-07-06,"Dólar cai e fecha a R$ 5,13, de olho no tarifaço e à espera de dados econômicos; Ibovespa recua - G1",-0.3,0.5,macro
+2026-07-06,"Ibovespa hoje fecha em queda, na contramão do exterior; dólar cai a R$ 5,13 - InfoMoney",-0.5,0.4,macro
+2026-07-06,"Ibovespa hoje cai com foco na inflação no Brasil e balança comercial dos EUA; dólar vai a R$ 5,15 - Estadão",-0.5,0.4,macro
+2026-07-06,Tarifas de 25% contra o Brasil ocupam agenda do mercado; Ibovespa em dólar avança hoje (7) - Money Times,-0.4,0.6,macro
+2026-07-06,Como os bancos digitais ampliaram o acesso ao mercado financeiro - CNN Brasil,0.4,0.2,setorial
+2026-07-06,Ibovespa fecha último pregão aos 172.448 pontos - Brasil 61,0.0,0.1,macro
+2026-07-07,Bolsa funcionará normalmente no feriado de 9 de julho em São Paulo; entenda - Bora Investir,0.0,0.1,macro
+2026-07-07,"Dólar sobe e fecha a R$ 5,15 com tensões comerciais e petróleo no radar; Ibovespa recua - G1",-0.6,0.7,macro
+2026-07-07,Ibovespa fecha em queda e perde patamar de 170 mil pontos; dólar cai - CNN Brasil,-0.5,0.6,macro
+2026-07-07,"Ibovespa hoje cai com foco na inflação no Brasil e balança comercial dos EUA; dólar vai a R$ 5,15 - Estadão",-0.5,0.6,macro
+2026-07-07,Tarifas de 25% contra o Brasil ocupam agenda do mercado; Ibovespa em dólar avança hoje (7) - Money Times,-0.4,0.8,macro
+2026-07-07,Ibovespa fecha último pregão aos 170.653 pontos - Brasil 61,0.0,0.2,macro
+2026-07-07,Ibovespa fecha em queda com alta do petróleo e piora no cenário geopolítico - Bloomberg Línea Brasil,-0.6,0.7,macro
+2026-07-07,"Ibovespa cai com Vale e seguindo exterior; dólar cai a R$ 5,14 - InfoMoney",-0.5,0.6,corporativo
+2026-07-07,"Ibovespa perde força com Vale e exterior, apesar da alta do petróleo - Times Brasil",-0.4,0.5,corporativo
+2026-07-07,CNBC,0.0,0.0,macro
+2026-07-07,"Dólar sobe e fecha aos R$ 5,152; Ibovespa cai 0,25% - Poder360",-0.5,0.6,macro
+2026-07-08,Fechamento (09/07),0.0,0.0,macro
+2026-07-08,"Ibovespa recupera perdas recentes e sobe 1,22%; dólar cai para R$ 5,12 - InvesTalk",0.7,0.6,macro
+2026-07-08,Ibovespa sobe com viés positivo no exterior; dólar cai com tensões em Ormuz - CNN Brasil,0.6,0.5,macro
+2026-07-08,"Ibovespa hoje fecha alta, seguindo NY, com ações de bancos; dólar cai para R$ 5,12 - InfoMoney",0.7,0.6,macro
+2026-07-08,Ibovespa fecha último pregão aos 170.653 pontos - Brasil 61,0.0,0.1,macro
+2026-07-08,Ibovespa hoje fecha em queda com crise entre EUA e Irã e ata do Fed; dólar tem leve baixa - Estadão,-0.6,0.7,macro
+2026-07-08,Ibovespa sobe com melhora externa; SLC avança - Notícias Agrícolas,0.5,0.4,macro
+2026-07-08,"Ibovespa deve reagir a varejo no Brasil, ata do Fed e tensão entre EUA e Irã nesta quarta - BPMoney",-0.2,0.6,macro
+2026-07-08,Tokenização de ativos impulsiona nova transformação no mercado financeiro e coloca o Brasil entre os… - Sala da Notícia,0.8,0.5,setorial
+2026-07-08,Ibovespa recupera perdas e fecha acima dos 172 mil pontos - Times Brasil,0.7,0.5,macro
+2026-07-08,CNBC,0.0,0.0,macro
+2026-07-08,Santander Brasil acumula queda de 21% e amplia desconto histórico na Bolsa - Portal IN - Pompeu Vasconcelos - Balada IN,-0.7,0.7,corporativo
+2026-07-09,Fechamento (09/07),0.0,0.0,macro
+2026-07-09,"Ibovespa recupera perdas recentes e sobe 1,22%; dólar cai para R$ 5,12 - InvesTalk",0.8,0.6,macro
+2026-07-09,Ibovespa sobe mais de 2% após IPCA reforçar expectativa de corte da Selic - Bloomberg Línea Brasil,0.9,0.8,macro
+2026-07-09,"Ibovespa hoje fecha alta, seguindo NY, com ações de bancos; dólar cai para R$ 5,12 - InfoMoney",0.8,0.6,macro
+2026-07-09,"Ibovespa sobe 2,18% na semana e passa 176 mil pontos; dólar recua a R$ 5,10 - CNN Brasil",0.85,0.7,macro
+2026-07-09,"Dólar fecha em queda, de olho em após inflação e tensões no Oriente Médio; Ibovespa sobe quase 3% - G1",0.75,0.8,macro
+2026-07-09,Ibovespa fecha último pregão aos 177.866 pontos - Brasil 61,0.5,0.2,macro
+2026-07-09,"Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado - UOL Economia",0.8,0.6,macro
+2026-07-09,Ibovespa entra no 'modo Bolt' e dispara 3.400 pontos em um minuto após IPCA surpreender. A Selic cai de vez? - Seu Dinheiro,0.95,0.9,macro
+2026-07-09,Ibovespa sobe com melhora externa; SLC avança - Notícias Agrícolas,0.6,0.4,setorial
+2026-07-09,O que faz o Ibovespa saltar mais de 5 mil pontos nesta sexta-feira (10) - Money Times,0.9,0.85,macro
+2026-07-10,Ibovespa sobe mais de 2% após IPCA reforçar expectativa de corte da Selic - Bloomberg Línea Brasil,0.8,0.7,macro
+2026-07-10,Juros altos redesenham produtos do mercado financeiro - CNN Brasil,0.0,0.3,macro
+2026-07-10,Ibovespa fecha último pregão aos 177.866 pontos - Brasil 61,0.5,0.2,macro
+2026-07-10,"Dólar fecha em queda, de olho em após inflação e tensões no Oriente Médio; Ibovespa sobe quase 3% - G1",0.9,0.8,macro
+2026-07-10,"Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado - UOL Economia",0.8,0.7,macro
+2026-07-10,"Ibovespa hoje fecha em alta de quase 3%, após IPCA; dólar recua para R$ 5,10 - InfoMoney",0.9,0.8,macro
+2026-07-10,O que faz o Ibovespa saltar mais de 5 mil pontos nesta sexta-feira (10) - Money Times,0.8,0.7,macro
+2026-07-10,Ibovespa entra no 'modo Bolt' e dispara 3.400 pontos em um minuto após IPCA surpreender. A Selic cai de vez? - Seu Dinheiro,0.9,0.9,macro
+2026-07-10,Ibovespa sobe quase 3% e fecha na máxima do dia após dados de inflação - Times Brasil,0.9,0.7,macro
+2026-07-10,CNBC,0.0,0.0,macro
+2026-07-10,Ibovespa hoje: CSN Mineração (CMIN3) salta 8%; Prio (PRIO3) sofre única queda do índice - Estadão,0.3,0.6,corporativo
+2026-07-11,Juros altos redesenham produtos do mercado financeiro - CNN Brasil,-0.2,0.5,macro
+2026-07-11,"Ibovespa Salta Quase 3%, após Inflação Reforçar Aposta de Queda da Selic em Agosto - Forbes Brasil",0.9,0.8,macro
+2026-07-11,Quem entra e quem sai do Ibovespa? BofA aponta duas possíveis novidades na carteira - Seu Dinheiro,0.1,0.4,corporativo
+2026-07-11,Dança das cadeiras: BofA avalia quais ações devem entrar e sair na 1ª prévia do Ibovespa - Money Times,0.1,0.4,corporativo
+2026-07-11,"Com queda na inflação, Bolsa de Valores tem maior alta desde maio - marilianoticia.com.br",0.8,0.7,macro
+2026-07-11,"Brasil, Bolsa, Balcão: entenda o que é a B3 e sua função no desenvolvimento econômico - Tribuna Hoje",0.0,0.2,macro
+2026-07-11,"8 recomendações para ajustar o portfólio para o 2º semestre, da renda fixa à bolsa - InfoMoney",0.1,0.5,macro
+2026-07-11,Estrangeiros retiram R$ 20 bilhões da B3 no segundo trimestre - Revista Oeste,-0.7,0.8,macro
+2026-07-11,Juros altos reconfiguram mercado e renda fixa domina investimentos - Rádio Itatiaia,-0.2,0.5,macro
+2026-07-11,"Bolsa sobe quase 3% e fecha no maior patamar desde maio; dólar cai a R$ 5,10 - bra1.com.br",0.8,0.8,macro
+2026-07-12,"Ibovespa fecha em queda com tensão no Oriente Médio; dólar vai a R$ 5,13 - CNN Brasil",-0.6,0.7,macro
+2026-07-12,"Dólar sobe e fecha a R$ 5,13 com tensões entre EUA e Irã no foco; Ibovespa cai - G1",-0.6,0.7,macro
+2026-07-12,"Dólar sobe a R$ 5,13 e Bolsa cai, com petróleo em forte alta no radar - UOL Economia",-0.6,0.7,macro
+2026-07-12,Quem entra e quem sai do Ibovespa? BofA aponta duas possíveis novidades na carteira - Seu Dinheiro,0.0,0.2,setorial
+2026-07-12,Elon Musk: SpaceX perdeu força um mês após estreia histórica na bolsa? - bbc.com,-0.4,0.5,corporativo
+2026-07-12,Dança das cadeiras: BofA avalia quais ações devem entrar e sair na 1ª prévia do Ibovespa - Money Times,0.0,0.2,setorial
+2026-07-12,Ibovespa cai com escalada da crise no Estreito de Ormuz e tensão política no Brasil - ADVFN,-0.8,0.8,macro
+2026-07-12,"Ibovespa hoje cai mais de 1% com tensões entre EUA e Irã; petróleo salta 9% e dólar vai a R$ 5,13 - Estadão",-0.8,0.9,macro
+2026-07-12,Ibovespa fecha em queda com tensão em Ormuz e disparada do petróleo - Times Brasil,-0.7,0.8,macro
+2026-07-12,CNBC,0.0,0.0,macro
+2026-07-12,"Dólar sobe 0,45% e Bolsa registra queda de 1,20% - Poder360",-0.6,0.6,macro
+2026-07-13,"Ibovespa tem chances de bater os 300 mil pontos se quadro fiscal ajudar, diz ASA - Valor Econômico",0.8,0.6,macro
+2026-07-13,"Ibovespa fecha em queda com tensão no Oriente Médio; dólar vai a R$ 5,13 - CNN Brasil",-0.7,0.7,macro
+2026-07-13,Ibovespa sobe e dólar fecha no menor nível em um mês - Forbes Brasil,0.6,0.5,macro
+2026-07-13,Inflação para baixo no Brasil e nos EUA pode trazer fluxo gringo de volta para B3? - InfoMoney,0.4,0.4,macro
+2026-07-13,"Ibovespa hoje sobe com inflação nos EUA e recuo de Trump sobre Ormuz; dólar cai a R$ 5,07 - Estadão",0.7,0.6,macro
+2026-07-13,"Ibovespa pode chegar aos 300 mil pontos, mas sob uma condição, diz ASA - Money Times",0.8,0.6,macro
+2026-07-13,"Dólar sobe a R$ 5,13 e Bolsa cai, com petróleo em forte alta no radar - UOL Economia",-0.7,0.7,macro
+2026-07-13,Elon Musk: SpaceX perdeu força um mês após estreia histórica na bolsa? - bbc.com,-0.5,0.5,corporativo
+2026-07-13,"Ibovespa fecha o último pregão aos 175.739,08 pontos, após queda de 0,27% - Brasil 61",-0.2,0.3,macro
+2026-07-13,Ibovespa cai com escalada da crise no Estreito de Ormuz e tensão política no Brasil - ADVFN,-0.8,0.8,macro
+2026-07-14,"Ibovespa tem chances de bater os 300 mil pontos se quadro fiscal ajudar, diz ASA - Valor Econômico",0.8,0.6,macro
+2026-07-14,Ibovespa sobe e dólar fecha no menor nível em um mês - Forbes Brasil,0.7,0.5,macro
+2026-07-14,Ibovespa hoje cai à espera de decisão dos EUA sobre tarifaço contra o Brasil; dólar tem leve alta - Estadão,-0.6,0.6,macro
+2026-07-14,Ibovespa cai e dólar oscila com inflação dos EUA fraca e tarifaço no radar - CNN Brasil,-0.5,0.5,macro
+2026-07-14,Inflação para baixo no Brasil e nos EUA pode trazer fluxo gringo de volta para B3? - InfoMoney,0.4,0.4,macro
+2026-07-14,"Ibovespa cede à exaustão e monta ""Duplo Topo""; perda de médias acelera correção - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.6,0.6,macro
+2026-07-14,"Ibovespa pode chegar aos 300 mil pontos, mas sob uma condição, diz ASA - Money Times",0.8,0.6,macro
+2026-07-14,"Ibovespa cai 0,36% com Brasil na mira do tarifaço de Trump; dólar sobe - Investidor10",-0.6,0.6,macro
+2026-07-14,Ibovespa fecha em queda com cenário eleitoral do Brasil no radar - Valor Econômico,-0.5,0.5,politico
+2026-07-14,Dólar fecha no menor patamar em um mês após inflação nos EUA; Ibovespa sobe - CNN Brasil,0.7,0.5,macro
+2026-07-15,Ibovespa fecha em queda com cenário eleitoral do Brasil no radar - Valor Econômico,-0.6,0.5,politico
+2026-07-15,Ibovespa Cai Mais de 1% após Tarifas dos EUA Ao Brasil - Forbes Brasil,-0.8,0.8,macro
+2026-07-15,"Ibovespa hoje fecha em queda com tarifaço dos EUA; dólar sobe e fica em R$ 5,09 - InfoMoney",-0.8,0.8,macro
+2026-07-15,Ibovespa fecha em queda com novo tarifaço dos EUA no radar; dólar sobe - CNN Brasil,-0.8,0.8,macro
+2026-07-15,Ibovespa hoje cai à espera de decisão dos EUA sobre tarifaço contra o Brasil; dólar tem leve alta - Estadão,-0.5,0.6,macro
+2026-07-15,Mercado repercute novo tarifaço contra o Brasil; Ibovespa em dólar cai hoje (16) - Money Times,-0.7,0.7,macro
+2026-07-15,Ibovespa recua com avanço de Lula em pesquisa eleitoral; Ânima (ANIM3) desaba quase 33% - Bloomberg Línea Brasil,-0.9,0.9,politico
+2026-07-15,Ibovespa cai e dólar oscila com inflação dos EUA fraca e tarifaço no radar - CNN Brasil,-0.7,0.7,macro
+2026-07-15,"Foi “apenas” o tarifaço? Os outros motivos que fizeram o Ibovespa cair 1,24% nesta 5ª - InfoMoney",-0.7,0.7,macro
+2026-07-15,Ibovespa Fecha em Queda Descolado de NY com Investidor À Espera de Decisão dos EUA sobre Tarifas - Forbes Brasil,-0.6,0.6,macro
+2026-07-16,Ibovespa Cai Mais de 1% após Tarifas dos EUA Ao Brasil - Forbes Brasil,-0.8,0.8,macro
+2026-07-16,"Ibovespa hoje fecha em queda com tarifaço dos EUA; dólar sobe e fica em R$ 5,09 - InfoMoney",-0.8,0.8,macro
+2026-07-16,"Ibovespa fecha estável com pressão de Petrobras; dólar sobe a R$ 5,11 - CNN Brasil",-0.2,0.4,corporativo
+2026-07-16,Mercado repercute novo tarifaço contra o Brasil; Ibovespa em dólar cai hoje (16) - Money Times,-0.8,0.8,macro
+2026-07-16,"Dólar sobe a R$ 5,09 com tarifas dos EUA e guerra no Irã; Ibovespa cai - G1",-0.9,0.9,macro
+2026-07-16,Ibovespa cai e dólar sobe após EUA confirmarem tarifa de 25% sobre produtos brasileiros - Bloomberg Línea Brasil,-0.9,0.9,macro
+2026-07-16,"Ibovespa tem leve queda com tarifaço, conflito no Oriente Médio e IBC-Br - VEJA",-0.6,0.6,macro
+2026-07-16,Quais ações perdem e ganham com tarifas de 25% de Trump - InvestNews,-0.5,0.6,setorial
+2026-07-16,Ibovespa fecha estável com fiscal no radar após confirmação de tarifaço - Times Brasil,-0.4,0.5,macro
+2026-07-16,CNBC,0.0,0.0,macro
+2026-07-16,Ibovespa fecha em queda com novo tarifaço dos EUA no radar; dólar sobe - CNN Brasil,-0.8,0.8,macro
+2026-07-17,"Ibovespa fecha estável com pressão de Petrobras; dólar sobe a R$ 5,11 - CNN Brasil",-0.1,0.2,setorial
+2026-07-17,Petróleo tem semana de fortes altas enquanto Ibovespa e dólar repercutem cenário domestico - Forbes Brasil,0.5,0.6,macro
+2026-07-17,Ibovespa encerra estável e dribla aversão global a risco com apoio da Petrobras - Valor Econômico,0.1,0.3,setorial
+2026-07-17,"Ibovespa tem leve queda com tarifaço, conflito no Oriente Médio e IBC-Br - VEJA",-0.4,0.5,macro
+2026-07-17,Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos - Notícias Agrícolas,-0.1,0.2,setorial
+2026-07-17,Ibovespa fecha estável com fiscal no radar após confirmação de tarifaço - Times Brasil,-0.3,0.4,macro
+2026-07-17,CNBC,0.0,0.0,macro
+2026-07-17,Curso gratuito Dn’A Women abre inscrições para universitárias interessadas no mercado financeiro - Estadão,0.2,0.1,setorial
+2026-07-17,O tarifaço dos EUA deve continuar impactando o mercado financeiro no Brasil? - O TEMPO,-0.3,0.5,macro
+2026-07-17,B3 lança três novos índices para títulos públicos atrelados à inflação - Notícias ao Minuto Brasil,0.3,0.2,corporativo
+2026-07-17,"Apesar de tensão global, bolsa fica estável e dólar sobe para R$ 5,11 - Revista Fórum",-0.2,0.3,macro
+2026-07-18,"Saiba como funciona o VIX, ""índice do medo"" do mercado - CNN Brasil",0.0,0.2,macro
+2026-07-18,Ibovespa recua após três semanas de alta; correção pode ganhar força na semana? - InfoMoney,-0.4,0.5,macro
+2026-07-18,CTG Brasil deve retomar plano para abrir capital na B3 em 2027 - Estadão,0.6,0.4,corporativo
+2026-07-18,"Com novo tarifaço de Trump e déficit fiscal crescente, Brasil chega à eleição mais importante do mundo em 2026 sem margem para erro, diz analista - G1",-0.8,0.9,politico
+2026-07-18,Auren (AURE3) perde 11% em uma semana; veja o que derrubou as ações da elétrica - Investidor10,-0.9,0.8,corporativo
+2026-07-18,Bolsa perde fôlego com tarifaço e pode ter 5º mês negativo - Poder360,-0.7,0.7,macro
+2026-07-18,"Análise: Tarifaço, eleições e fiscal tiram ânimo do mercado - CNN Brasil",-0.6,0.6,macro
+2026-07-18,Estrangeiros impulsionam mercado imobiliário no Brasil - boca.com.br,0.7,0.4,setorial
+2026-07-18,Quem é Eduardo Moreira? A trajetória do ex-banqueiro que fundou o ICL - tmc.com.br,0.0,0.1,corporativo
+2026-07-18,"Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global - Isso É Notícia",-0.3,0.5,macro
+2026-07-19,NASCAR Brasil acelera no mercado financeiro com participação inédita na Expert XP - nascarbrasil.com.br,0.5,0.4,corporativo
+2026-07-19,Índice Small Caps ganha liquidez em relação ao Ibovespa. Mas o filme é bem diferente da foto - NeoFeed,0.1,0.3,macro
+2026-07-19,"Saiba como funciona o VIX, ""índice do medo"" do mercado - CNN Brasil",0.0,0.2,macro
+2026-07-19,Até 1.097%: As ações que batem o Ibovespa em cinco anos de perda para o CDI - InfoMoney,0.2,0.5,macro
+2026-07-19,"Ibovespa hoje fecha em queda e dólar cede, com Boletim Focus e alta do petróleo no radar - Estadão",-0.2,0.4,macro
+2026-07-19,Bolsas globais monitoram petróleo próximo dos US$ 90; Ibovespa em dólar sobe hoje (20) - Money Times,0.2,0.4,macro
+2026-07-19,Dólar e Ibovespa recuam em dia de incertezas sobre guerra no Oriente Médio - CNN Brasil,-0.4,0.6,macro
+2026-07-19,"Ibovespa fecha em queda de 0,2% com menor liquidez e foco do mercado no Oriente Médio - InfoMoney",-0.3,0.4,macro
+2026-07-19,Ibovespa hoje: Brava (BRAV3) lidera altas com avanço do petróleo; Yduqs (YDUQ3) tem maior queda - Estadão,0.0,0.4,corporativo
+2026-07-19,Mini-índice (WINQ26): o que acompanhar no índice futuro hoje - InfoMoney,0.0,0.2,macro
+2026-07-20,NASCAR Brasil acelera no mercado financeiro com participação inédita na Expert XP - nascarbrasil.com.br,0.5,0.3,corporativo
+2026-07-20,Índice Small Caps ganha liquidez em relação ao Ibovespa. Mas o filme é bem diferente da foto - NeoFeed,0.1,0.4,setorial
+2026-07-20,Ibovespa recua com escalada da guerra no Oriente Médio - VEJA,-0.8,0.8,macro
+2026-07-20,Dólar e Ibovespa recuam em dia de incertezas sobre guerra no Oriente Médio - CNN Brasil,-0.7,0.7,macro
+2026-07-20,Até 1.097%: As ações que batem o Ibovespa em cinco anos de perda para o CDI - InfoMoney,0.6,0.6,setorial
+2026-07-20,"Dólar cai e fecha a R$ 5,07 com conflito no Oriente Médio no radar; Ibovespa recua - G1",-0.5,0.6,macro
+2026-07-20,"Ibovespa hoje fecha em queda e dólar cede, com Boletim Focus e alta do petróleo no radar - Estadão",-0.5,0.6,macro
+2026-07-20,Ibovespa cai enquanto petróleo avança com conflito no Oriente Médio; dólar recua - Bloomberg Línea Brasil,-0.6,0.7,macro
+2026-07-20,"IBOV até ficou no zero a zero, mas Banco do Brasil (BBAS3) subia 3,5% - Investidor10",0.4,0.4,corporativo
+2026-07-20,Bolsa brasileira é a 4ª mais rentável do mundo em dólar - Poder360,0.8,0.7,macro
+2026-07-21,Ibovespa supera 177 mil pontos com avanço de Vale e Weg; dólar cai - CNN Brasil,0.8,0.7,macro
+2026-07-21,Ibovespa Sobe Impulsionado por Vale e Petrobras; Dólar Fecha no Menor Nível em Pouco Mais de um Mês - Forbes Brasil,0.7,0.6,macro
+2026-07-21,"Ibovespa dispara mais de 2%, com blue chips; dólar desce R$ 5,05 - InfoMoney",0.85,0.8,macro
+2026-07-21,Fechamento,0.0,0.0,macro
+2026-07-21,"Ibovespa salta 2,44% e retoma 177 mil pontos, com apoio de Vale e Petrobras - InvesTalk",0.85,0.8,macro
+2026-07-21,Apetite do estrangeiro anima Ibovespa apesar de queda em Nova York - UOL Economia,0.6,0.6,macro
+2026-07-21,Ibovespa dispara com Vale e WEG em dia de maior apetite por risco local - Valor Econômico,0.8,0.7,macro
+2026-07-21,Ibovespa recua com escalada da guerra no Oriente Médio - VEJA,-0.8,0.8,macro
+2026-07-21,"Ibovespa sobe com impulso da Vale após prévia operacional; dólar cai a R$ 5,05 - Bloomberg Línea Brasil",0.75,0.6,macro
+2026-07-21,Ibovespa hoje: Weg (WEGE3) salta 10% após balanço; Tim (TIMS3) lidera quedas com relatório do UBS - Estadão,0.4,0.7,corporativo
+2026-07-21,"IBOV até ficou no zero a zero, mas Banco do Brasil (BBAS3) subia 3,5% - Investidor10",0.3,0.4,corporativo
+2026-07-22,Fechamento,0.0,0.0,macro
+2026-07-22,"Ibovespa salta 2,44% e retoma 177 mil pontos, com apoio de Vale e Petrobras - InvesTalk",0.85,0.8,corporativo
+2026-07-22,Ibovespa supera 177 mil pontos com avanço de Vale e Weg; dólar cai - CNN Brasil,0.8,0.75,corporativo
+2026-07-22,Ibovespa Sobe Impulsionado por Vale e Petrobras; Dólar Fecha no Menor Nível em Pouco Mais de um Mês - Forbes Brasil,0.85,0.8,corporativo
+2026-07-22,"Ibovespa dispara mais de 2%, com blue chips; dólar desce R$ 5,05 - InfoMoney",0.85,0.8,corporativo
+2026-07-22,"Dólar sobe e fecha a R$ 5,08 com tensões entre EUA e Irã e alta do petróleo; Ibovespa cai - G1",-0.7,0.75,macro
+2026-07-22,Apetite do estrangeiro anima Ibovespa apesar de queda em Nova York - UOL Economia,0.6,0.5,macro
+2026-07-22,Ibovespa hoje fecha em queda mesmo com alta da Petrobras e Vale; petróleo bate US$ 100 e dólar sobe - Estadão,-0.6,0.7,macro
+2026-07-22,"Ibovespa sobe 2,4% com impulso da Vale após prévia acima do esperado - Bloomberg Línea Brasil",0.8,0.75,corporativo
+2026-07-22,Ibovespa fecha em baixa e acompanha queda do petróleo; dólar sobe - CNN Brasil,-0.6,0.6,macro
+2026-07-22,Fechamento,0.0,0.0,macro
+2026-07-22,"Ibovespa recua 0,46%, com pressão de NY e risco geopolítico; petróleo volta a US$ 100 - InvesTalk",-0.5,0.65,macro
+2026-07-23,Ibovespa cai pressionado por queda da Petrobras e petróleo; dólar recua - CNN Brasil,-0.6,0.5,setorial
+2026-07-23,"Dólar sobe e fecha a R$ 5,08 com tensões entre EUA e Irã e alta do petróleo; Ibovespa cai - G1",-0.5,0.6,macro
+2026-07-23,Fechamento,0.0,0.0,macro
+2026-07-23,"Ibovespa recua 0,46%, com pressão de NY e risco geopolítico; petróleo volta a US$ 100 - InvesTalk",-0.6,0.6,macro
+2026-07-23,Ibovespa cai 1% com novas tarifas dos EUA e tensão no Oriente Médio; dólar recua - Bloomberg Línea Brasil,-0.7,0.7,macro
+2026-07-23,"Ibovespa recua junto com o exterior e dólar volta a subir, a R$ 5,08 - InfoMoney",-0.5,0.5,macro
+2026-07-23,Ibovespa hoje cai mais de 1% com novas tarifas dos EUA sobre o Brasil; dólar tem leve baixa - Estadão,-0.8,0.7,politico
+2026-07-23,"Petróleo Supera Us$ 100, Derruba Ibovespa e Leva Dólar a R$ 5,08 - Forbes Brasil",-0.8,0.8,macro
+2026-07-23,"Ibovespa recua com petróleo e após tarifas, de olho em Galípolo e Durigan - UOL Economia",-0.6,0.6,macro
+2026-07-23,Ibovespa fecha em baixa e acompanha queda do petróleo; dólar sobe - CNN Brasil,-0.6,0.5,setorial
+2026-07-23,"Dólar sobe a R$ 5,09 e Ibovespa opera estável após Brent superar US$ 100 o barril - Bloomberg Línea Brasil",-0.4,0.6,macro
+2026-07-24,Ibovespa cai pressionado por queda da Petrobras e petróleo; dólar recua - CNN Brasil,-0.6,0.5,corporativo
+2026-07-24,Ibovespa cai 1% com novas tarifas dos EUA e tensão no Oriente Médio; dólar recua - Bloomberg Línea Brasil,-0.7,0.7,macro
+2026-07-24,Ibovespa hoje cai mais de 1% com novas tarifas dos EUA sobre o Brasil; dólar tem leve baixa - Estadão,-0.7,0.7,macro
+2026-07-24,Dólar e Ibovespa fecham em queda em meio a tarifaço dos EUA e baixa do petróleo - G1,-0.6,0.6,macro
+2026-07-24,"Tenda dentro, PetroReconcavo fora: o que esperar da nova carteira do Ibovespa? - InfoMoney",0.1,0.3,setorial
+2026-07-24,"Ibovespa recua com petróleo e após tarifas, de olho em Galípolo e Durigan - UOL Economia",-0.6,0.6,macro
+2026-07-24,Mercado digere as novas tarifas de Trump; Ibovespa em dólar cai hoje (24) - Money Times,-0.5,0.6,macro
+2026-07-24,"XP reduz projeção do Ibovespa, mas ainda vê alta de 16% para a bolsa brasileira - Economic News Brasil",0.4,0.5,macro
+2026-07-24,Pior do que a crise de 2015? BTG faz alerta sobre economia brasileira — e as coisas podem desandar mais cedo do que você pensa - Seu Dinheiro,-0.9,0.9,macro
+2026-07-24,Ibovespa: da máxima histórica à correção — o que o fluxo estrangeiro revela sobre 2026 - marilianoticia.com.br,0.0,0.4,macro
+2026-07-25,"IA acelera decisões no mercado financeiro, mas exige mais capacidade analítica - InfoMoney",0.2,0.3,setorial
+2026-07-25,"XP reduz projeção do Ibovespa, mas ainda vê alta de 16% para a bolsa brasileira - Economic News Brasil",0.6,0.4,macro
+2026-07-25,"Calendário econômico da semana: Fed, inflação e PIB dominam a última semana de julho - Estadão",0.0,0.2,macro
+2026-07-25,"Vale (VALE3), Santander (SANB11) e outras 9 empresas divulgam resultados do 2T26 nesta semana; confira - Seu Dinheiro",0.1,0.3,corporativo
+2026-07-25,Onde investir o bônus da Faria Lima? - CNN Brasil,0.0,0.2,setorial
+2026-07-25,Estrategista da XP diz estar otimista com a Bolsa em 2027 - Poder360,0.8,0.5,macro
+2026-07-25,"Dólar fica estável em R$ 5,08, mas cai 0,58% na semana - Folha PE",0.1,0.3,macro
+2026-07-25,Ibovespa fecha em queda firme pressionado por blue chips - Terra,-0.7,0.7,macro
+2026-07-25,Dólar fecha estável e Bolsa recua com tensão externa e queda do petróleo - O Imparcial,-0.6,0.6,macro
+2026-07-25,"Bolsa cai 1,5% com recuo do petróleo; dólar fecha estável a R$ 5,08 - tribunadoplanalto.com.br",-0.7,0.7,macro
+2026-07-26,"Ibovespa fecha em alta puxado por bancos e Vale; dólar sobe a R$ 5,11 - CNN Brasil",0.6,0.5,setorial
+2026-07-26,Ibovespa fecha último pregão aos 175.431 pontos - Brasil 61,0.5,0.2,macro
+2026-07-26,"Mercado reduz para 5,12% expectativa de inflação em 2026 - Brasil de Fato",0.4,0.3,macro
+2026-07-26,Ibovespa e dólar avançam com alívio no petróleo após pausa nos ataques no Oriente Médio - Bloomberg Línea Brasil,0.7,0.7,macro
+2026-07-26,"Ibovespa Fecha Acima dos 175 Mil Pontos com Vale e Bancos; Dólar Sobe e Petróleo cede 8,7% - Forbes Brasil",0.6,0.6,setorial
+2026-07-26,Ibovespa hoje: MBRF (MBRF3) dispara 7%; petroleiras tombam com queda do petróleo - Estadão,0.0,0.6,corporativo
+2026-07-26,"Ibovespa fecha em alta confortável, com bancos e Vale; Petrobras recua - InfoMoney",0.6,0.4,setorial
+2026-07-26,"Ibovespa é impulsionado pelo apetite a risco com a trégua entre EUA e Irã; dólar sobe a R$ 5,11 - Money Times",0.7,0.7,macro
+2026-07-26,"Ibovespa sobe 0,8% e dólar avança com foco no Oriente Médio - Poder360",0.5,0.4,macro
+2026-07-26,Ibovespa fecha em alta com alívio externo e expectativas sobre Fed e balanços nos EUA - VEJA,0.6,0.4,macro
+2026-07-27,Banco do Brasil (BBAS3) é destaque em mais uma recuperação do IBOV - Investidor10,0.8,0.5,corporativo
+2026-07-27,"Ibovespa B3 sobe 0,74%, com breve trégua no Oriente Médio; dólar vai a R$ 5,11 - Bora Investir",0.6,0.4,macro
+2026-07-27,"Ibovespa fecha em alta puxado por bancos e Vale; dólar sobe a R$ 5,11 - CNN Brasil",0.6,0.4,macro
+2026-07-27,Ibovespa fecha último pregão aos 175.431 pontos - Brasil 61,0.5,0.2,macro
+2026-07-27,Ibovespa recupera os 176 mil pontos com IPCA-15 abaixo do esperado e apoio de blue chips - Valor Econômico,0.8,0.6,macro
+2026-07-27,"Mercado reduz para 5,12% expectativa de inflação em 2026 - Brasil de Fato",0.6,0.4,macro
+2026-07-27,Ibovespa hoje: Vamos (VAMO3) salta; Telefônica Brasil (VIVT3) e Tim (TIMS3) afundam após balanços - Estadão,0.0,0.6,corporativo
+2026-07-27,Ibovespa e dólar avançam com alívio no petróleo após pausa nos ataques no Oriente Médio - Bloomberg Línea Brasil,0.7,0.5,macro
+2026-07-27,"Ibovespa fecha novamente em alta, com impulso do IPCA-15, bancos e Petrobras - InfoMoney",0.8,0.5,macro
+2026-07-27,"Ibovespa Fecha Acima dos 175 Mil Pontos com Vale e Bancos; Dólar Sobe e Petróleo cede 8,7% - Forbes Brasil",0.7,0.5,macro
+2026-07-28,Ibovespa cai após balanço do Santander Brasil frustrar expectativas e com foco no Fed - Bloomberg Línea Brasil,-0.6,0.6,corporativo
+2026-07-28,Banco do Brasil (BBAS3) é destaque em mais uma recuperação do IBOV - Investidor10,0.7,0.5,corporativo
+2026-07-28,Ibovespa Ainda Pode Subir? Veja os Setores com Maior Potencial para o Segundo Semestre de 2026 - Forbes Brasil,0.5,0.3,setorial
+2026-07-28,Investimentos em bolsa no 2º semestre: quais as perspectivas e setores para ficar de olho - Bora Investir,0.4,0.3,setorial
+2026-07-28,Ibovespa e dólar fecham em alta com prévia da inflação e à espera do Fed - CNN Brasil,0.6,0.6,macro
+2026-07-28,Ibovespa recupera os 176 mil pontos com IPCA-15 abaixo do esperado e apoio de blue chips - Valor Econômico,0.8,0.7,macro
+2026-07-28,Ibovespa hoje recua mais de 1% após decisão do Fed e aumento das tensões no Oriente Médio - Estadão,-0.8,0.8,macro
+2026-07-28,"Ibovespa cai 1,52% e fecha na mínima do dia após Fed manter juros: o que desanimou? - InfoMoney",-0.8,0.8,macro
+2026-07-28,"Ibovespa cai com pressão dos bancos após balanço do Santander, e cautela após decisão do Fed - ADVFN",-0.7,0.7,corporativo
+2026-07-28,Ibovespa fecha em queda com pressão de Santander Brasil e volatilidade após Fed - Bloomberg Línea Brasil,-0.6,0.6,corporativo
+2026-07-29,Ibovespa cai após balanço do Santander Brasil frustrar expectativas e com foco no Fed - Bloomberg Línea Brasil,-0.6,0.6,corporativo
+2026-07-29,Investimentos em bolsa no 2º semestre: quais as perspectivas e setores para ficar de olho - Bora Investir,0.0,0.2,macro
+2026-07-29,"Ibovespa fecha o último pregão aos 173.885 pontos, após queda de 0,65% - Brasil 61",-0.4,0.4,macro
+2026-07-29,Ibovespa hoje recua mais de 1% após decisão do Fed e aumento das tensões no Oriente Médio - Estadão,-0.8,0.8,macro
+2026-07-29,Ibovespa fecha em alta com balanços e exterior positivo; dólar recua - CNN Brasil,0.7,0.5,macro
+2026-07-29,"Ibovespa cai 1,52% e fecha na mínima do dia após Fed manter juros: o que desanimou? - InfoMoney",-0.8,0.7,macro
+2026-07-29,Petróleo Dispara com Tensão no Oriente Médio; Fed Derruba Ibovespa e Dólar Recua - Forbes Brasil,-0.7,0.8,macro
+2026-07-29,Ibovespa sobe com dados da economia dos EUA e temporada de balanços - VEJA,0.7,0.5,macro
+2026-07-29,Ibovespa fecha em queda com pressão de Santander Brasil e volatilidade após Fed - Bloomberg Línea Brasil,-0.6,0.6,corporativo
+2026-07-29,"Ibovespa sobe mais de 1%, em linha com o exterior; dólar cai a R$ 5,06 - InfoMoney",0.8,0.6,macro
+2026-07-30,Fechamento,0.0,0.1,macro
+2026-07-30,"Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) - InvesTalk",0.6,0.5,corporativo
+2026-07-30,4 ações sobem mais de 20% e 6 caem ao menos 10%: os destaques do Ibovespa em julho - InfoMoney,0.3,0.6,setorial
+2026-07-30,"Dólar sobe no último pregão de julho, mas fecha o mês em queda; Ibovespa avança - G1",0.4,0.4,macro
+2026-07-30,"Ibovespa hoje fecha em alta e dólar sobe a R$ 5,07; pregão foi mais curto por falha na B3 - Estadão",0.3,0.5,macro
+2026-07-30,B3 retoma negociações de ativos após intercorrência operacional - CNN Brasil,0.0,0.4,setorial
+2026-07-30,"Ibovespa sobe em linha com exterior após queda da véspera; dólar recua a R$ 5,07 - Bloomberg Línea Brasil",0.4,0.4,macro
+2026-07-30,Ibovespa pode iniciar sessão em baixa; falha técnica na B3 adia abertura do mercado - UOL Economia,-0.3,0.6,setorial
+2026-07-30,Ibovespa sobe com dados da economia dos EUA e temporada de balanços - VEJA,0.6,0.5,macro
+2026-07-30,"Ibovespa sobe 0,47% aos 177.999 pontos; dólar fecha a R$ 5,070 - Poder360",0.5,0.4,macro
+2026-07-30,"B3: após atraso operacional de quase 3h, ativos passam a ser negociados na Bolsa - InfoMoney",0.0,0.5,setorial
+2026-07-31,Fechamento,0.0,0.1,macro
+2026-07-31,"Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) - InvesTalk",0.5,0.4,corporativo
+2026-07-31,4 ações sobem mais de 20% e 6 caem ao menos 10%: os destaques do Ibovespa em julho - InfoMoney,0.0,0.6,macro
+2026-07-31,"Dólar sobe no último pregão de julho, mas fecha o mês em queda; Ibovespa avança - G1",0.3,0.4,macro
+2026-07-31,"Ibovespa hoje fecha em alta e dólar sobe a R$ 5,07; pregão foi mais curto por falha na B3 - Estadão",0.2,0.5,macro
+2026-07-31,B3 retoma negociações de ativos após intercorrência operacional - CNN Brasil,0.0,0.4,setorial
+2026-07-31,Ibovespa fecha em alta em dia de problema técnico - Forbes Brasil,0.3,0.4,macro
+2026-07-31,Ibovespa pode iniciar sessão em baixa; falha técnica na B3 adia abertura do mercado - UOL Economia,-0.3,0.6,macro
+2026-07-31,Tokenização revoluciona o setor financeiro: BIS e FMI analisam potencial e riscos - Finsiders Brasil,0.2,0.5,setorial
+2026-07-31,"Ibovespa sobe 0,47% aos 177.999 pontos; dólar fecha a R$ 5,070 - Poder360",0.4,0.4,macro
+2026-07-31,"Depósito do lucro do FGTS, dólar, Ibovespa, mais agenda e pílulas da economia 31.07 - GZH",0.0,0.2,macro
+2026-08-01,MBRF (MBRF3) e Usiminas (USIM5) são os destaques da semana; veja o que movimentou o Ibovespa no fim de julho - Money Times,0.2,0.4,corporativo
+2026-08-01,"'Warren Buffett de Londrina' defende que Bradesco (BBDC4), Suzano (SUZB3) e outras 4 ações estão baratas na bolsa - Seu Dinheiro",0.6,0.5,corporativo
+2026-08-01,IA pode deixar compras online mais seguras? Visa e Mastercard criam protocolos contra golpes - Estadão,0.4,0.3,setorial
+2026-08-01,"PF investiga movimentação de R$ 2,3 bilhões de ex-CEO da Americanas, diz jornal - Valor Econômico",-0.9,0.9,corporativo
+2026-08-01,"Número de mulheres investidoras cresce 35,4% no Amazonas - A Crítica",0.3,0.2,macro
+2026-08-01,Ibovespa opera em alta após atraso na abertura por problema técnico na B3 - Terra,0.1,0.4,macro
+2026-08-01,Fitch rebaixa rating da CSN a CCC+ com piora de flexibilidade financeira - InfoMoney,-0.8,0.8,corporativo
+2026-08-01,George Santos faz acordo de US$ 35 mil por irregularidade em apostas - CNN Brasil,-0.3,0.3,politico
+2026-08-01,"Negociação de dívidas: mulheres estão mais interessadas em sair da inadimplência, enquanto homens querem sair do endividamento, revela estudo - BPMoney",0.1,0.2,macro
+2026-08-01,"Ibovespa fecha julho com alta de 3,57% no mês enquanto dólar cai quase 2% - Agora MT",0.7,0.6,macro
+2026-08-02,Museu da B3 guarda acervo centenário que conta história do desenvolvimento financeiro brasileiro - al.sp.gov.br,0.0,0.1,setorial
+2026-08-02,Ibovespa fecha estável com Oriente Médio no radar; dólar sobe - CNN Brasil,-0.1,0.3,macro
+2026-08-02,'Velha economia' do Ibovespa perde a primeira batalha do 'mês do desgosto' - Valor Investe,-0.6,0.7,macro
+2026-08-02,"Vale e Petrobras caem e limitam o desempenho do Ibovespa; dólar avança a R$ 5,09 - Bloomberg Línea Brasil",-0.5,0.6,corporativo
+2026-08-02,"Ibovespa hoje fecha estável em dia de quedas da Vale e Petrobras; dólar sobe a R$ 5,08 - Estadão",-0.3,0.4,corporativo
+2026-08-02,"Ibovespa termina dia estável, mesmo com perdas de Vale e Petrobras - InfoMoney",-0.2,0.3,corporativo
+2026-08-02,Ibovespa sobe com alívio externo e foco nas decisões de juros no Brasil e nos EUA - VEJA,0.6,0.6,macro
+2026-08-02,Com duas mudanças: confira a 1º prévia da carteira do Ibovespa B3 que entra em vigor em setembro - Bora Investir,0.0,0.2,setorial
+2026-08-02,"Dólar sobe a R$ 5,087 e Ibovespa fecha aos 177.946,66 pontos - Poder360",-0.2,0.3,macro
+2026-08-02,Ibovespa fecha estável em sessão marcada por forte volatilidade - Brasil 247,0.0,0.5,macro
+2026-08-03,Ibovespa tem dia volátil e encerra estável com novas sanções contra o Brasil no radar - Valor Econômico,-0.2,0.4,macro
+2026-08-03,Ibovespa fecha estável com Oriente Médio no radar; dólar sobe - CNN Brasil,-0.1,0.3,macro
+2026-08-03,IA no Setor Financeiro: Avanços e Impactos Reestruturam o Brasil - contabeis.com.br,0.4,0.3,setorial
+2026-08-03,"Vale e Petrobras caem e limitam o desempenho do Ibovespa; dólar avança a R$ 5,09 - Bloomberg Línea Brasil",-0.4,0.5,corporativo
+2026-08-03,Recorde de recuperações judiciais abre nova fronteira para o mercado de NPL no Brasil - Monitor Mercantil,0.1,0.3,setorial
+2026-08-03,Ibovespa sobe com PIM e petróleo limita ganhos - ES Brasil,0.2,0.3,macro
+2026-08-03,"Ibovespa descola de novo de NY após saltar 1,5% e tem leve queda – 4 fatores explicam - InfoMoney",-0.2,0.4,macro
+2026-08-03,"Ibovespa hoje fecha estável em dia de quedas da Vale e Petrobras; dólar sobe a R$ 5,08 - Estadão",-0.3,0.4,corporativo
+2026-08-03,Ibovespa sobe com alívio externo e foco nas decisões de juros no Brasil e nos EUA - VEJA,0.5,0.5,macro
+2026-08-03,"Menos otimismo? Investidores institucionais reduzem expectativa para o Ibovespa em 2026, segundo pesquisa do Itaú BBA - Money Times",-0.3,0.4,macro
+2026-08-04,Ibovespa tem dia volátil e encerra estável com novas sanções contra o Brasil no radar - Valor Econômico,-0.2,0.5,macro
+2026-08-04,CNN Brasil e NeoFeed estreiam documentário sobre mercado financeiro - CNN Brasil,0.0,0.1,corporativo
+2026-08-04,"Circuit Breaker, o documentário sobre a revolução do mercado financeiro, chega às telas - NeoFeed",0.0,0.1,corporativo
+2026-08-04,IA no Setor Financeiro: Avanços e Impactos Reestruturam o Brasil - contabeis.com.br,0.3,0.3,setorial
+2026-08-04,"Ibovespa fecha em leve queda pressionado por recuo da Petrobras; dólar sobe a R$ 5,13 - Bloomberg Línea Brasil",-0.3,0.4,macro
+2026-08-04,O tempo de recuar a cada ataque do mercado financeiro acabou - PCdoB,-0.4,0.6,politico
+2026-08-04,"Ibovespa fecha com leve baixa, com Petrobras e Itaú; Vale sobe - InfoMoney",-0.1,0.2,corporativo
+2026-08-04,Ibovespa sobe com PIM e petróleo limita ganhos - ES Brasil,0.2,0.3,macro
+2026-08-04,Recorde de recuperações judiciais abre nova fronteira para o mercado de NPL no Brasil - Monitor Mercantil,0.2,0.3,setorial
+2026-08-04,Ibovespa Recua e Petróleo Desaba Enquanto Dólar Sobe ante Ao Real - Forbes Brasil,-0.6,0.7,macro
+2026-08-05,Dólar e Ibovespa fecham em queda após Copom reduzir juros ao menor patamar desde março de 2025 - G1,-0.4,0.6,macro
+2026-08-05,CNN Brasil e NeoFeed estreiam documentário sobre mercado financeiro - CNN Brasil,0.1,0.1,setorial
+2026-08-05,"Circuit Breaker, o documentário sobre a revolução do mercado financeiro, chega às telas - NeoFeed",0.1,0.1,setorial
+2026-08-05,"Ibovespa recua mais de 1%, com Copom, exterior e balanços - InfoMoney",-0.6,0.7,macro
+2026-08-05,"Ibovespa cai 1,23% com pressão de Vale e Bradesco; dólar recua após decisão do Copom - Bloomberg Línea Brasil",-0.7,0.7,corporativo
+2026-08-05,Ibovespa fecha em queda à espera do Copom e com balanços em foco; dólar tem leve baixa - Estadão,-0.4,0.5,macro
+2026-08-05,"Selic a 14%: Como o Ibovespa, os juros futuros e o dólar devem reagir ao Copom - Money Times",0.0,0.4,macro
+2026-08-05,"Após corte na Selic, dólar e Ibovespa fecham em queda - Poder360",-0.4,0.6,macro
+2026-08-05,"Ibovespa toca 180 mil pontos, mas fecha em baixa antes do Copom - Times Brasil",-0.3,0.5,macro
+2026-08-05,CNBC,0.0,0.0,setorial
+2026-08-05,O plano do JP Morgan para tirar investidor do 'Ibovespa de 20 anos atrás' - Exame,0.3,0.4,corporativo
+2026-08-06,Dólar e Ibovespa fecham em queda após Copom reduzir juros ao menor patamar desde março de 2025 - G1,-0.4,0.6,macro
+2026-08-06,"Debandada dos “gringos”? Por que Ibovespa caiu 1,7% nesta 6ª e mais de 3% na semana - InfoMoney",-0.8,0.8,macro
+2026-08-06,Ibovespa fecha em queda no dia seguinte à decisão de juros; dólar recua - CNN Brasil,-0.3,0.5,macro
+2026-08-06,"Ibovespa cai 1,7% pressionado por Petrobras e varejistas; dólar recua com payroll - Bloomberg Línea Brasil",-0.7,0.7,corporativo
+2026-08-06,"CNN Brasil apresenta ""CircuitBreaker – A Revolução do Mercado Financeiro"", doc produzido pelo NeoFeed - TELA VIVA News",0.1,0.2,setorial
+2026-08-06,Ibovespa cai com saída estrangeira e payroll dos EUA - ES Brasil,-0.7,0.7,macro
+2026-08-06,Professor Mira: Ibovespa em 180 mil pontos e dólar em queda. O que o investidor precisa entender deste momento - Bora Investir,0.6,0.4,macro
+2026-08-06,Pior interrupção da história do mercado brasileiro coloca a B3 em foco - InvestNews,-0.9,0.9,setorial
+2026-08-06,"Ibovespa e dólar hoje inauguram semana pesada de dados de inflação Brasil e EUA - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.4,0.6,macro
+2026-08-06,"Ibovespa vira e recua com Petrobras, mesmo após dados positivos dos EUA - VEJA",-0.5,0.6,corporativo
+2026-08-07,Ibovespa fecha em queda com balanços em foco; dólar cai - CNN Brasil,-0.4,0.4,corporativo
+2026-08-07,"Debandada dos “gringos”? Por que Ibovespa caiu 1,7% nesta 6ª e mais de 3% na semana - InfoMoney",-0.8,0.7,macro
+2026-08-07,"Ibovespa cai 1,7% pressionado por balanços, apesar de ‘payroll’ fraco - Valor Econômico",-0.6,0.6,corporativo
+2026-08-07,Ibovespa Fecha em Queda com Cena Corporativa em Foco; Petrobras Cai 3% - Forbes Brasil,-0.7,0.6,corporativo
+2026-08-07,"Ibovespa recua na contramão de Wall Street após payroll fraco; dólar cai a R$ 5,09 - Bloomberg Línea Brasil",-0.4,0.5,macro
+2026-08-07,Ibovespa cai com saída estrangeira e payroll dos EUA - ES Brasil,-0.7,0.6,macro
+2026-08-07,Pior interrupção da história do mercado brasileiro coloca a B3 em foco - InvestNews,-0.8,0.8,setorial
+2026-08-07,"Ibovespa e dólar hoje inauguram semana pesada de dados de inflação Brasil e EUA - Investing.com Brasil - Finanças, Câmbio e Investimentos",-0.3,0.5,macro
+2026-08-07,"Ibovespa vira e recua com Petrobras, mesmo após dados positivos dos EUA - VEJA",-0.5,0.5,corporativo
+2026-08-07,Ibovespa fecha em queda após payroll fraco dos EUA e tensões no Oriente Médio - trademap.com.br,-0.7,0.7,macro
+2026-08-08,Fleury (FLRY3) e Marcopolo (POMO4) são os destaques da semana; veja o que movimentou o Ibovespa - Money Times,0.5,0.3,corporativo
+2026-08-08,"Berkshire Hathaway dobra lucro no 2º trimestre para US$ 25,6 bilhões - CNN Brasil",0.8,0.7,corporativo
+2026-08-08,"Estrangeiro volta à Bolsa em julho, mas eleições podem frear fluxo no 2º semestre - InfoMoney",-0.2,0.5,politico
+2026-08-08,Ibovespa fecha último pregão aos 172.494 pontos - Conexão Itajubá,0.0,0.1,macro
+2026-08-08,Dolar Desvalorizado Frente ao Real Ibovespa Fecha em Alta - Gazeta da Semana,0.6,0.4,macro
+2026-08-08,"Fleury e Marcopolo se destacam; Ibovespa cai 3,08% - Associação Comercial e Industrial de Araçatuba",-0.8,0.8,macro
+2026-08-08,Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País - Estadão,0.0,0.1,corporativo
+2026-08-08,Banco Central estuda interligar Pix com sistemas de outros países - Agora RN,0.2,0.3,macro
+2026-08-08,El Niño deve custar caro ao PIB do Brasil com choques em agro e energia - InfoMoney,-0.7,0.7,macro
+2026-08-08,Itaú inicia programa de trainee com salário acima de R$ 9 mil; veja como se inscrever - Rádio Itatiaia,0.4,0.3,corporativo
+2026-08-09,"""Bolsa Ibovespa"": grupo de empresários busca apoio político para dar ações a todo recém-nascido - NeoFeed",0.2,0.3,politico
+2026-08-09,A volta por cima dos irmãos Batista: como donos da JBS foram da prisão a influenciar diplomacia mundial - bbc.com,0.5,0.4,corporativo
+2026-08-09,A ‘Odisseia’ do investidor: o manual mitológico para não naufragar no mercado financeiro - Seu Dinheiro,0.0,0.2,macro
+2026-08-09,História da WEG: ela chegou à Bolsa antes de fabricar 1 milhão de motores - Economic News Brasil,0.4,0.1,corporativo
+2026-08-09,Vai rolar: Inflação põe juros à prova aqui e nos EUA - BDM - Bom Dia Mercado,-0.3,0.6,macro
+2026-08-09,Banco Central do Brasil cria sistema de regulação criptomoedas D+1 - Livecoins,0.1,0.3,macro
+2026-08-09,Banco Central estuda interligar Pix com sistemas de outros países - radiopoata.com.br,0.2,0.3,macro
+2026-08-09,Economia Fora Da Caixa: Taxa de Juros e a traição de Gabriel Galípolo - ojacare.com.br,-0.4,0.5,macro
+2026-08-09,Pai deixa carreira no mercado financeiro e reduz salário em 75% para ajudar filho autista - Portal São Miguel Notícias,0.0,0.1,corporativo
+2026-08-09,Preços do açúcar continuam em queda em Nova Iorque - boca.com.br,-0.5,0.4,setorial
+2026-08-10,Associação do mercado financeiro leva agenda a campanhas e defende medidas para reduzir Custo Brasil - Folha de S.Paulo,0.5,0.4,macro
+2026-08-10,"Ibovespa fecha aos 172.179,93 pontos, após sessão de volatilidade - Brasil 61",0.2,0.3,macro
+2026-08-10,Ibovespa cede à cautela global e vive teste de fogo nos 172 mil pontos - Valor Investe,-0.3,0.5,macro
+2026-08-10,Ibovespa fecha em queda com cautela no exterior e recuo de bancos; dólar sobe - Bloomberg Línea Brasil,-0.6,0.6,macro
+2026-08-10,Investidores de 60 anos ou mais crescem 358% na B3 nos últimos dez anos - CNN Brasil,0.7,0.5,setorial
+2026-08-10,"Ibovespa cai e dólar sobe a R$ 5,11; Petrobras avança mais de 3% - Estadão",-0.2,0.5,corporativo
+2026-08-10,"Ibovespa volta a andar de lado, com queda curta, mesmo com altas de Vale e Petrobras - InfoMoney",-0.1,0.3,macro
+2026-08-10,"Ibovespa cai com cautela, mas petróleo limita recuo - ES Brasil",-0.3,0.4,macro
+2026-08-10,"Dólar sobe 0,53% e fecha em R$ 5,111; Ibovespa cai 0,19% - Poder360",-0.3,0.4,macro
+2026-08-10,"Projeto da Bolsa Ibovespa quer dar R$ 22,5 mil a jovens - Associação Comercial e Industrial de Araçatuba",0.4,0.3,setorial
+2026-08-11,"JPMorgan corta Brasil a neutro, “reduz” Ibovespa e aposta em exportadoras; veja ações - InfoMoney",-0.6,0.7,macro
+2026-08-11,"Ibovespa tem maior queda diária desde março após rebaixamento do J.P. Morgan, com eleições no radar - Valor Econômico",-0.9,0.9,macro
+2026-08-11,"Ibovespa cai após ata do Copom, IPCA e rebaixamento do Brasil pelo JPMorgan - VEJA",-0.8,0.8,macro
+2026-08-11,"Cautela com Brasil joga Ibovespa para baixo, em meio à ata do Copom e IPCA - UOL Economia",-0.7,0.7,macro
+2026-08-11,Ibovespa fecha na mínima desde janeiro; dólar sobe 1% - CNN Brasil,-0.7,0.7,macro
+2026-08-11,Ibovespa fecha no menor nível desde janeiro após rebaixamento do Brasil pelo JPMorgan; dólar sobe - Estadão,-0.8,0.8,macro
+2026-08-11,"Ibovespa cai 2,5% com rebaixamento do JPMorgan e risco eleitoral; dólar sobe a R$ 5,16 - Bloomberg Línea Brasil",-0.9,0.9,macro
+2026-08-11,Ibovespa fecha último pregão aos 167.728 pontos - Brasil 61,0.0,0.1,macro
+2026-08-11,Ibovespa despenca mais de 2%; o que está por trás da queda? - Investidor10,-0.8,0.8,macro
+2026-08-11,"JPMorgan corta Brasil para neutro, reduz projeção do Ibovespa e aposta em exportadoras - BPMoney",-0.6,0.7,macro
+2026-08-12,Ibovespa pode cair mais? Onde está o fundo da Bolsa - InfoMoney,-0.5,0.6,macro
+2026-08-12,Cautela do mercado financeiro com Brasil limita Ibovespa de seguir alta em Nova York - UOL Economia,-0.3,0.4,macro
+2026-08-12,"Ibovespa recua com temor fiscal no radar; dólar sobe a R$ 5,17 - CNN Brasil",-0.6,0.7,macro
+2026-08-12,"Ibovespa tem a sétima queda seguida e dólar sobe a R$ 5,18 com eleições no radar - Bloomberg Línea Brasil",-0.7,0.8,politico
+2026-08-12,"Dólar sobe a R$ 5,17, com inflação dos EUA e Oriente Médio no foco; Ibovespa cai - G1",-0.6,0.7,macro
+2026-08-12,Ibovespa hoje: índice fecha em 167.491 pontos e registra sétima queda seguida - Brasil 61,-0.6,0.7,macro
+2026-08-12,Ibovespa estende perdas com ‘risco Brasil’ ainda no radar dos investidores; dólar sobe - Money Times,-0.6,0.7,macro
+2026-08-12,"Ibovespa fecha em queda pela 7º vez seguida, com balanços, CPI dos EUA e tensão no Irã; dólar sobe - Estadão",-0.7,0.8,macro
+2026-08-12,"Ibovespa cai pela sétima vez consecutiva; dólar sobe a R$ 5,18 - Times Brasil",-0.6,0.7,macro
+2026-08-12,CNBC,0.0,0.0,macro
+2026-08-12,Cautela do mercado financeiro com Brasil limita Ibovespa de seguir alta em Nova York - Tribuna do Sertão,-0.3,0.4,macro
+2026-08-13,Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil - G1,-0.7,0.6,macro
+2026-08-13,"Ibovespa cai pela 8ª vez seguida, algo ocorrido só 7 vezes desde 2000; veja por quê - InfoMoney",-0.8,0.8,macro
+2026-08-13,Ibovespa fecha último pregão aos 167.491 pontos - Brasil 61,0.0,0.1,macro
+2026-08-13,"Ibovespa B3 recua 0,23%, com comércio e balanços no foco; dólar vai a R$ 5,19 - Bora Investir",-0.3,0.3,macro
+2026-08-13,"“O déficit da Previdência Pública é uma falácia disseminada pelo mercado financeiro”, diz Maria Lucia Fattorelli em Live - auditoriacidada.org.br",-0.2,0.4,politico
+2026-08-13,"Ibovespa recua com pressão de Sabesp e BB; em Nova York, S&P 500 bate recorde - Bloomberg Línea Brasil",-0.4,0.5,corporativo
+2026-08-13,'Baby steps': executivo da CVM defende cautela na tokenização do mercado financeiro - cointelegraph.com.br,0.0,0.2,setorial
+2026-08-13,B3: Ibovespa derrete bilhões em valor de mercado após sete pregões seguidos de queda - ISTOÉ DINHEIRO,-0.9,0.9,macro
+2026-08-13,Ibovespa perde carona em recorde de Wall Street e cai com Banco do Brasil (BBAS3); dólar sobe - Money Times,-0.5,0.6,corporativo
+2026-08-13,R$ 279 bilhões foram embora da bolsa em sete dias de queda do Ibovespa - Exame,-0.9,0.9,macro
+2026-08-14,Por que o Ibovespa cai enquanto Wall Street bate recordes? 5 fatores explicam - InfoMoney,-0.8,0.7,macro
+2026-08-14,Ibovespa recua com possibilidade de Brasil retaliar tarifaço de Donald Trump - VEJA,-0.7,0.8,politico
+2026-08-14,O gringo está de saída do Ibovespa (de novo): confira o que afasta o estrangeiro do Brasil - Seu Dinheiro,-0.7,0.6,macro
+2026-08-14,Mercado financeiro reduz estimativa da inflação pela sexta semana consecutiva - Canal Rural,0.6,0.5,macro
+2026-08-14,Ibovespa fecha semana com maior série de perdas desde 2023; dólar sobe - CNN Brasil,-0.9,0.8,macro
+2026-08-14,Temor com processo do Brasil sobre tarifas dos EUA e exterior morno travam Ibovespa - UOL Economia,-0.7,0.7,politico
+2026-08-14,Ibovespa hoje tem 9ª queda seguida com balanços; dólar atinge maior valor desde março - Estadão,-0.9,0.9,macro
+2026-08-14,"Ibovespa fecha o último pregão aos 166.934 pontos, após nona queda seguida - Brasil 61",-0.8,0.8,macro
+2026-08-14,"Ibovespa em queda, resposta do Brasil ao 'tarifaço' de Trump e IPO da Anthropic no radar do mercado; veja destaques desta sexta (14) - Empiricus",-0.8,0.8,politico
+2026-08-14,"Ibovespa cai pelo 9º dia seguido e dólar sobe a R$ 5,22 - ICL Notícias",-0.9,0.9,macro

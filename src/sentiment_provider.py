@@ -105,43 +105,51 @@ def _parse_json_dict(text: str) -> dict:
     return data
 
 
-_gemini_limiter = RateLimiter(max_calls=14, period_seconds=60)  # margem sob o limite de 15/min
-_gemini_model = None
+GEMINI_MODEL = "gemini-3.5-flash-lite"  # gemini-2.5-flash-lite foi descontinuado para novas contas
+_gemini_limiter = RateLimiter(max_calls=14, period_seconds=60)  # margem sob o limite de 15/min do free tier
+_gemini_client = None
 
 
-def _get_gemini_model():
-    global _gemini_model
-    if _gemini_model is None:
-        import google.generativeai as genai
+def _get_gemini_client():
+    global _gemini_client
+    if _gemini_client is None:
+        from google import genai
 
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             raise RuntimeError("GEMINI_API_KEY nao encontrada no .env")
-        genai.configure(api_key=api_key)
-        _gemini_model = genai.GenerativeModel(
-            model_name="gemini-2.5-flash-lite",
-            system_instruction=SYSTEM_PROMPT,
-        )
-    return _gemini_model
+        _gemini_client = genai.Client(api_key=api_key)
+    return _gemini_client
 
 
 def _gemini_get_sentiment(texto: str, retries: int = 3) -> dict:
-    import google.api_core.exceptions as gexc
+    from google.genai import types
+    from google.genai.errors import ClientError
 
-    model = _get_gemini_model()
+    client = _get_gemini_client()
     for attempt in range(retries + 1):
         _gemini_limiter.wait()
         try:
-            resp = model.generate_content(
-                texto,
-                generation_config={"temperature": 0.0, "response_mime_type": "application/json"},
+            resp = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=texto,
+                config=types.GenerateContentConfig(
+                    temperature=0.0,
+                    response_mime_type="application/json",
+                    system_instruction=SYSTEM_PROMPT,
+                ),
             )
             return _parse_json_dict(resp.text)
-        except gexc.ResourceExhausted:
-            backoff = 2 ** attempt * 5
-            print(f"    [rate limit Gemini] aguardando {backoff}s...")
-            time.sleep(backoff)
-        except Exception as e:
+        except ClientError as e:
+            if e.code == 429:
+                backoff = 2 ** attempt * 5
+                print(f"    [rate limit Gemini] aguardando {backoff}s...")
+                time.sleep(backoff)
+            elif attempt == retries:
+                raise
+            else:
+                time.sleep(2 ** attempt)
+        except Exception:
             if attempt == retries:
                 raise
             time.sleep(2 ** attempt)
@@ -194,7 +202,7 @@ def get_sentiment(texto: str) -> dict:
     entao rodar o script de novo nao reprocessa o que ja foi classificado.
     """
     provider = os.getenv("LLM_PROVIDER", "gemini").lower()
-    model = "gemini-2.5-flash-lite" if provider == "gemini" else "claude-haiku-4-5-20251001"
+    model = GEMINI_MODEL if provider == "gemini" else "claude-haiku-4-5-20251001"
 
     cache = _load_cache()
     key = _cache_key(provider, model, texto)

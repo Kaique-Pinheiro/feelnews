@@ -62,7 +62,7 @@ def _unpack(params: np.ndarray, has_x: bool):
     return mu, omega, alpha, beta, gamma, nu
 
 
-def _compute_sigma2(params: np.ndarray, returns: np.ndarray, x: np.ndarray | None) -> np.ndarray:
+def compute_sigma2_series(params: np.ndarray, returns: np.ndarray, x: np.ndarray | None) -> np.ndarray:
     has_x = x is not None
     mu, omega, alpha, beta, gamma, _ = _unpack(params, has_x)
     eps = returns - mu
@@ -81,7 +81,7 @@ def _neg_loglik(params: np.ndarray, returns: np.ndarray, x: np.ndarray | None) -
     if nu <= 2.01 or omega <= 0 or alpha < 0 or beta < 0:
         return 1e10
 
-    sigma2 = _compute_sigma2(params, returns, x)
+    sigma2 = compute_sigma2_series(params, returns, x)
     eps = returns - mu
     z = eps / np.sqrt(sigma2)
 
@@ -190,7 +190,7 @@ def fit_garch11_x(returns: np.ndarray, x: np.ndarray | None = None, warm_start: 
         se = np.full(k, np.nan)
         pvalues = np.full(k, np.nan)
 
-    sigma2 = _compute_sigma2(result.x, returns, x)
+    sigma2 = compute_sigma2_series(result.x, returns, x)
 
     return GarchXResult(
         param_names=names,

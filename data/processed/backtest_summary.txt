@@ -1,0 +1,9 @@
+Treino: 2025-08-15 a 2026-06-05 (200 obs)
+Teste:  2026-06-08 a 2026-08-14 (50 obs validas)
+
+               MSE       MAE     QLIKE
+baseline  0.470099  0.604248  0.233655
+garchx    0.419992  0.542193  0.208906
+
+Diebold-Mariano stat=0.8860 p-value=0.3756
+Melhor modelo (menor QLIKE): GARCH-X

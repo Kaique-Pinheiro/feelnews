@@ -1,6 +1,6 @@
 # FeelNews
 
-Modelo de previsão de volatilidade do Ibovespa que testa se sentimento extraído de manchetes financeiras por LLM adiciona poder preditivo a um GARCH(1,1) tradicional.
+Modelo de previsão de volatilidade do Ibovespa que testa se sentimento extraído de manchetes financeiras por LLM adiciona poder preditivo a um GARCH(1,1) tradicional — e usa essa previsão para uma estratégia de vol-targeting, comparada contra buy-and-hold.
 
 ## Hipótese central
 
@@ -91,6 +91,35 @@ O sentimento extraído por LLM, nesta amostra (~1 ano de manchetes, dominadas po
 
 Ver `outputs/06_metrics_table.png` para a tabela completa e `outputs/04_sentiment_vs_volatility.png` / `outputs/05_backtest_oos_comparison.png` para a inspeção visual.
 
+## Estratégia de investimento (vol-targeting)
+
+O FeelNews não para na previsão de volatilidade — a previsão alimenta uma **regra de decisão de alocação** (`src/strategy.py`), transformando o modelo estatístico numa estratégia de investimento testável.
+
+### Regra
+
+$$\text{peso}(t) = \text{clip}\left(\frac{\text{vol\_alvo}}{\hat\sigma_{t}},\ 0,\ 1.5\right)$$
+
+- **Vol. alvo = 15% a.a.**, escolhida a priori (entre a vol. histórica do Ibovespa ~17-18% e um alvo moderadamente conservador) — **não otimizada nos dados**, para não confundir estratégia com overfitting.
+- **Cap de exposição 1.5x** (alavancagem máxima) e **piso 0** (sem posição vendida).
+- $\hat\sigma_t$ é a mesma previsão de 1 passo à frente do Passo 5, feita com informação até $t-1$ — a mesma disciplina anti look-ahead do resto do pipeline: o peso do dia $t$ nunca usa dado de $t$.
+- Capital não alocado rende **CDI aproximado por uma taxa constante de 10% a.a.** (simplificação deliberada — não baixamos a série histórica real do CDI para não gastar tempo da entrega; ver Limitações).
+
+### Três estratégias comparadas, out-of-sample (50 pregões de teste)
+
+| Estratégia | Retorno acum. | Retorno anual. | Vol. anual. | Sharpe | Max drawdown | Turnover médio |
+|---|---|---|---|---|---|---|
+| Buy-and-hold Ibovespa | -1.23% | -6.06% | 16.06% | -1.00 | -6.22% | 0.000 |
+| Vol-targeting (GARCH baseline) | -0.14% | -0.72% | **13.63%** | -0.79 | **-4.96%** | 0.018 |
+| Vol-targeting (GARCH-X) | -0.56% | -2.80% | 15.05% | -0.85 | -5.64% | 0.018 |
+
+Ver `outputs/07_strategy_backtest.png`: painel superior mostra o patrimônio acumulado das três estratégias; painel inferior mostra a exposição ao Ibovespa variando no tempo (0.73x a 1.03x) — o robô reduzindo posição quando a volatilidade prevista sobe.
+
+### Conclusão honesta da estratégia
+
+O período de teste foi de **queda do Ibovespa** (buy-and-hold perde -6.06% a.a.), então nenhuma das três estratégias teve retorno positivo — não maquiamos isso. Mas o vol-targeting **cumpriu o papel que se propõe**: reduziu volatilidade realizada (13.6-15.1% vs. 16.1% do buy-and-hold) e reduziu o drawdown máximo (-5.0%/-5.6% vs. -6.2%), amortecendo visivelmente a queda forte no fim da amostra (ver o gráfico). O Sharpe continua negativo nas três (o período inteiro teve retorno de mercado negativo, então nenhuma alocação linear no Ibovespa evitaria isso), mas é **menos negativo** nas duas versões com vol-targeting.
+
+Entre as duas versões do vol-targeting, a que usa o **GARCH baseline supera a que usa o GARCH-X** em todas as métricas (maior retorno, menor vol., menor drawdown, Sharpe menos negativo) — consistente com o Passo 4/5: como o sinal de sentimento não é estatisticamente confiável, ele introduz ruído na previsão de variância que se propaga para pesos de carteira levemente piores. Isso é uma evidência adicional (agora em termos de $ e não só estatística) de que, nesta amostra, o GARCH-X não teve o modelo mais simples como um adversário fácil de vencer.
+
 ## Limitações
 
 - **Janela de sentimento pequena para padrões GARCH.** GARCH tipicamente pede 500+ observações para inferência estável; usamos 250. Expandimos de 91 para 365 dias corridos durante o desenvolvimento justamente porque N=63 produzia parâmetros degenerados (α=β=0) — ver histórico de commits. Mesmo com N=250, alguns parâmetros do GARCH-X têm erros-padrão elevados.
@@ -100,6 +129,9 @@ Ver `outputs/06_metrics_table.png` para a tabela completa e `outputs/04_sentimen
 - **Agregação diária, não intradiária.** O score de sentimento agrega todas as manchetes do dia numa média simples; não há ponderação por horário de publicação em relação ao fechamento do pregão.
 - **MLE manual, não a biblioteca `arch`.** Implementação própria testada e validada (warm-start + multi-start + polimento Nelder-Mead para evitar mínimos locais), mas não passou pelo mesmo nível de escrutínio de anos de uso em produção que a biblioteca `arch` teve para o caso sem regressor exógeno.
 - **`gemini-2.5-flash-lite`, o modelo originalmente planejado, foi descontinuado para novas contas** durante o desenvolvimento; usamos `gemini-3.5-flash-lite` (ver commits).
+- **CDI aproximado por taxa constante (10% a.a.), não a série histórica real.** Simplificação deliberada por tempo — o retorno do capital não alocado é uma aproximação, não a taxa efetiva dia a dia.
+- **Custo de transação não modelado nos retornos da estratégia.** Reportamos turnover médio (~1.8% ao dia nas duas versões de vol-targeting) justamente para permitir essa discussão, mas ele não é descontado do retorno — numa implementação real, custo de corretagem/slippage reduziria o resultado de ambas as versões de vol-targeting proporcionalmente ao turnover.
+- **Vol. alvo (15% a.a.) e cap (1.5x) são escolhas a priori, não otimizadas.** Isso é deliberado (evita overfitting/data snooping), mas significa que não exploramos se outra combinação teria performance melhor — o teste é da regra, não do melhor parâmetro possível.
 
 ## Estrutura do projeto
 
@@ -114,7 +146,8 @@ FeelNews/
 │   ├── garch_x_mle.py          # Passo 4: MLE manual do GARCH-X
 │   ├── garch_x.py              # Passo 4: fit + comparação baseline vs. GARCH-X
 │   ├── backtest.py             # Passo 5: split treino/teste, MSE/MAE/QLIKE, Diebold-Mariano
-│   └── visualizations.py       # Passo 6: gráficos finais
+│   ├── visualizations.py       # Passo 6: gráficos finais
+│   └── strategy.py             # Fase 2: vol-targeting, 3 estrategias, metricas de portfolio
 ├── data/
 │   ├── raw/                    # preços e manchetes brutos (não versionado)
 │   └── processed/              # séries derivadas, parâmetros, métricas
@@ -146,6 +179,7 @@ python src/sentiment_scoring.py
 python src/garch_x.py
 python src/backtest.py
 python src/visualizations.py
+python src/strategy.py
 ```
 
 ## Tecnologias

@@ -1,6 +1,6 @@
 # FeelNews
  
-Modelo de previsão de volatilidade do Ibovespa que testa se sentimento extraído de manchetes financeiras por LLM adiciona poder preditivo a um GARCH(1,1) tradicional — e usa essa previsão para uma estratégia de vol-targeting, comparada contra buy-and-hold.
+Modelo de previsão de volatilidade do Ibovespa que testa se sentimento extraído de manchetes financeiras por LLM adiciona poder preditivo a um GARCH(1,1) tradicional e usa essa previsão para uma estratégia de vol-targeting, comparada contra buy-and-hold.
  
 ## Hipótese central
  
@@ -12,7 +12,7 @@ A volatilidade do mercado não reage apenas ao histórico de retornos, mas tamb�
  
 - **Ativo**: Ibovespa (`^BVSP`), via `yfinance`
 - **Preços**: 5 anos de histórico diário (2021-08-16 a 2026-08-14), 1247 pregões, para o diagnóstico exploratório e o GARCH baseline "de referência"
-- **Notícias**: manchetes financeiras sobre o mercado brasileiro, coletadas via Google News RSS (filtro de data dia a dia, sem chave de API), janela de 365 dias corridos (2025-08-15 a 2026-08-14) — 3.450 manchetes em 366 dias, cobertura de 100%
+- **Notícias**: manchetes financeiras sobre o mercado brasileiro, coletadas via Google News RSS (filtro de data dia a dia, sem chave de API), janela de 365 dias corridos (2025-08-15 a 2026-08-14) — 3.571 manchetes em 366 dias, cobertura de 100%
 - **Sentimento**: cada manchete classificada por LLM (Gemini `gemini-3.5-flash-lite`, `temperature=0`) em três dimensões: `sentimento` (-1 a +1), `intensidade` (0 a 1) e `categoria_risco` (macro/político/setorial/corporativo)
 - **Janela alinhada para GARCH-X**: interseção de retornos e sentimento defasado = 250 pregões (2025-08-15 a 2026-08-14)
 ## Metodologia
